@@ -97,7 +97,7 @@ configure :build do
 end
 
 activate :s3_sync do |s3_sync|
-  s3_sync.bucket                     = 'landmark-property.com'
+  s3_sync.bucket                     = ENV['AWS_BUCKET'] || 'landmark-property.com'
   s3_sync.region                     = 'us-east-1'
   s3_sync.delete                     = false
   s3_sync.after_build                = true
