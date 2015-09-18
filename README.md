@@ -1,6 +1,5 @@
 # Landmark Property Services Corporate Website
-
-[ ![Codeship Status for acurley/landmark-property.com](https://codeship.com/projects/3a93aa60-3ef2-0133-8c9b-2edfe7d39107/status?branch=master)](https://codeship.com/projects/102957) 
+[ ![Codeship Status for landmarkpsi/landmark-property.com](https://codeship.com/projects/c3a88900-3fd1-0133-214c-360ac7489bcc/status?branch=master)](https://codeship.com/projects/103267)
 [![Dependency Status](https://gemnasium.com/527fecaa1e9d009e389fde2dbb32bf45.svg)](https://gemnasium.com/acurley/landmark-property.com)
 
 ## Technology Stack
