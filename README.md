@@ -8,5 +8,5 @@
 * Deployed to AWS S3 via [middleman_s3sync](https://github.com/fredjean/middleman-s3_sync)
 
 ## Links
-[Production](http://landmark-property.com.s3-website-us-east-1.amazonaws.com/)
-[Test](http://test-landmark-property.com.s3-website-us-east-1.amazonaws.com/)
+* [Production](http://landmark-property.com.s3-website-us-east-1.amazonaws.com/)
+* [Test](http://test-landmark-property.com.s3-website-us-east-1.amazonaws.com/)
