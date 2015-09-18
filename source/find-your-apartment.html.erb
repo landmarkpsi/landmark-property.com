@@ -1,0 +1,26 @@
+---
+title: 'Find Your Apartment - Landmark Property Services, Inc.'
+description: 'Finding your apartment is easy with Landmark Property Services, Inc.  Search properties in Richmond VA, Charlottesville VA, Williamsburg VA, Hampton Roads VA or North Carolina'
+keywords: 'apartment search, richmond va, charlottesville va, hampton roads va, williamsburg va, apartments for rent'
+---
+<div class="breadcrumbs-v3" style="background: url(/assets/img/landmark/findyourapartment.jpg) no-repeat; background-size: cover; background-position: 60% 60%; padding-bottom: 100px;">
+    <div class='container'>
+        <div class="sky-form">
+            <header>Find Your Apartment</header>
+
+            <fieldset>
+                <section>
+                    <label class="select">
+                        <select id='property-links'>
+                            <option disabled selected>I want to search in...</option>
+                            <% data.portfolio.regions.each do |region| %>
+                                <option value="/<%= region.name %>"><%= region.name.gsub(/-/, ' ').split.map(&:capitalize).join(' ')  %></option>
+                            <% end %>
+                        </select>
+                        <i></i>
+                    </label>
+                </section>
+            </fieldset>
+        </div>
+    </div>
+</div>

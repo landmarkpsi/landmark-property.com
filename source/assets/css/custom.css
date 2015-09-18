@@ -1,0 +1,69 @@
+/* Add here all your css styles (customizations) */
+@import url(theme-colors/landmark-green.css);
+@import url(footers/footer-v2.css);
+
+.re-title-v3 {
+  color: #fff;
+  font-size: 40px;
+  font-weight: 200;
+  line-height: 45px;
+  text-align: center;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+.portfolio-box-v1 .portfolio-box-v1-in {
+  top: 40%;
+  visibility: visible;
+}
+
+.portfolio-box-v1 .portfolio-box-v1-in p {
+  font-size: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.portfolio-box-v1 li {
+  background: black;
+    -webkit-backface-visibility: visible; /*For Chrome*/
+}
+
+.portfolio-box-v1 img {
+  opacity: 0.6;
+}
+
+.portfolio-box-v1 li:hover:after {
+  background: rgba(3,96,75,0.7);
+}
+
+/* profile.html */
+.parallax-bg {
+  position: relative;
+  background: url(../img/landmark/aboutusoldbridge.jpg) 50% no-repeat fixed;
+}
+
+.parallax-bg:before {
+  width: 100%;
+  height: 100%;
+  content: " ";
+  position: absolute;
+  background: rgba(255,255,255,0.85); 
+}
+
+.parallax-about .info-blocks-v2 {
+    margin-bottom: 5px;
+}
+
+.parallax-about .title-box-v2 p,
+.parallax-about .title-box-v2 h2 {
+    color: #585f69;
+    position: relative;
+}
+
+/* meet-our-team.html */
+.parallax-team {
+  background: url(../img/landmark/team-background.jpg) 50% 0 repeat fixed;  
+}
+
+.header-v6 .navbar-brand {
+  line-height: 20px;
+}

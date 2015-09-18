@@ -1,0 +1,47 @@
+<!--=== Interactive Slider ===-->
+<div class="breadcrumbs-v3 breadcrumbs-lg img-v2" style="background: url(/assets/img/landmark/propertyimages/<%= property.img %>) no-repeat; background-size: cover;">
+    <div class="container">
+        <h1><%= property.name %></h1>
+        <p><%= property.city %></p>
+    </div>
+</div>
+<!--=== End Interactive Slider ===-->
+
+<!--=== Container Part ===-->
+<div class="container content-sm">
+    <div class="row">
+        <!-- Social Network -->
+        <div class="col-md-6 md-margin-bottom-50">
+            <div class="headline-left margin-bottom-30">
+                <h2 class="headline-brd heading-md">ABOUT <span class="color-green"><%= property.name %></span></h2>
+            </div>
+            <p><span class="color-green"><%= property.address %></span></p>
+            <% property.descriptions.each do |desc| %>
+                <p><%= desc %></p>
+            <% end %>
+        </div>
+        <!-- End Social Network -->
+
+        <!-- Progress Bar -->
+        <div class="col-md-6 progress-box md-margin-bottom-50">
+            <div class="sky-form">
+                <fieldset>
+                    <section>
+                        <label class="label">Property Links</label>
+                        <label class="select">
+                            <select id='property-links'>
+                                <option disabled selected>I want to...</option>
+                                <% property.links.each do |link| %>
+                                    <option value="<%= link.url %>"><%= link.title %></option>
+                                <% end %>
+                            </select>
+                            <i></i>
+                        </label>
+                    </section>
+                </fieldset>
+            </div>
+        </div>
+        <!-- End Progress Bar -->
+    </div><!--/end row-->
+</div>
+<!--=== End Container Part ===-->

@@ -1,0 +1,47 @@
+---
+title: 'Portfolio - Landmark Property Services, Inc.'
+description: 'List of apartments manageed by Landmark throughout Virginia and North Carolina'
+keywords: 'multifamily, richmond, charlottesville, willamsburg, hampton roads, north caronlina, apartments, rent, rentals'
+---
+<div class="container">
+    <!--=== Cube-Portfdlio ===-->
+    <div class="cube-portfolio container margin-bottom-60">
+        <div class="content-xs">
+            <div id="filters-container" class="cbp-l-filters-text content-xs">
+                <div data-filter="*" class="cbp-filter-item-active cbp-filter-item"> All </div> |
+                <div data-filter=".charlottesville" class="cbp-filter-item"> Charlottesville, VA </div> |
+                <div data-filter=".hampton-roads" class="cbp-filter-item"> Hampton Roads, VA </div> |
+                <div data-filter=".richmond" class="cbp-filter-item"> Richmond, VA</div> |
+                <div data-filter=".williamsburg" class="cbp-filter-item"> Williamsburg, VA </div> |
+                <div data-filter=".north-carolina" class="cbp-filter-item"> North Carolina </div>
+            </div><!--/end Filters Container-->
+        </div>
+
+        <div id="grid-container" class="cbp-l-grid-agency">
+            <% data.portfolio.properties.each do |property| %>
+                <div class="cbp-item <%= property.region %>">
+                    <div class="cbp-caption margin-bottom-20">
+                        <div class="cbp-caption-defaultWrap">
+                            <img src="/assets/img/landmark/portfolio/<%= property.img %>" alt="">
+                        </div>
+                        <div class="cbp-caption-activeWrap">
+                            <div class="cbp-l-caption-alignCenter">
+                                <div class="cbp-l-caption-body">
+                                    <ul class="link-captions no-bottom-space">
+                                        <li><a href="/<%= property.name.gsub(/ /, '-').downcase %>" class="btn-u btn-u-lg">Learn More</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cbp-title-dark">
+                        <div class="cbp-l-grid-agency-title"><%= property.name %></div>
+                        <div class="cbp-l-grid-agency-desc"><%= property.city %></div>
+                    </div>
+                </div>
+            <% end %>
+        </div>
+        <!--/end Grid Container-->
+    </div>
+    <!--=== End Cube-Portfdlio ===-->
+</div>

@@ -1,0 +1,70 @@
+---
+title: 'Multifamily Management - Landmark Property Services, Inc.'
+description: 'Find out more information about how Landmark Property Services can utilize award-winning techniques to manage your properties'
+keywords: 'awards, RAMMY, management proposal, multifamily, apartments, rent'
+
+---
+<div class="parallax-counter-v4 parallaxBg" style="background: url(/assets/img/landmark/propertyimages/hamptons.jpg) 50% 0 fixed; ">
+    <div class="container content-sm">
+        <% data.multifamily_management.stats.each do |stat| %>
+            <div class="col-md-3 col-xs-6 md-margin-bottom-20">
+                <i class="<%= stat.icon %>"></i>
+                <span class="counter"><%= stat.number %></span>
+                <h4><%= stat.category %></h4>
+            </div>
+        <% end %>
+    </div>
+</div>
+
+<div class="container content-sm">
+    <div class="col-md-6 margin-bottom-30">
+        <h2 class="title-v2"><%= data.multifamily_management.lead.header %></h2>
+        <% data.multifamily_management.lead.text.each do |para| %>
+            <p><%= para %></p>
+        <% end %>
+        <a href="/request-management-proposal" class="btn-u">Request Management Proposal</a>
+    </div>
+    <div class="col-md-6">
+        <% data.multifamily_management.body.each do |body| %>
+            <div class="content-boxes-v4 content-boxes-v4-sm">
+                <div class="md-margin-bottom-40">
+                    <i class="pull-left <%= body.icon %>"></i>
+                    <div class="content-boxes-in-v4">
+                        <h4><%= body.header %></h4>
+                        <% body.text.each do |para| %>
+                            <p><%= para %></p>
+                        <% end %>
+                    </div>
+                </div>
+            </div>
+        <% end %>
+    </div>
+</div>
+
+ <!--Timeline-->
+<div class="container profile margin-bottom-40">
+    <div class="profile-body">
+        <div class="panel panel-profile">
+            <div class="panel-heading overflow-h">
+                <h2 class="panel-title heading-sm pull-left"><i class="fa fa-trophy"></i> Awards</h2>
+            </div>
+            <div class="panel-body">
+                <ul class="timeline-v2 timeline-me">
+                    <% data.multifamily_management.awards.each do |award| %>
+                        <li>
+                            <time datetime="" class="cbp_tmtime"><span><%= award.year %></span></time>
+                            <i class="cbp_tmicon rounded-x hidden-xs"></i>
+                            <div class="cbp_tmlabel">
+                                <h2><%= award.title %></h2>
+                                <p><%= award.receipient %></p>
+                            </div>
+                        </li>
+                    <% end %>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End Timeline-->
+

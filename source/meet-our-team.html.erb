@@ -1,0 +1,98 @@
+---
+title: 'Meet Our Team - Landmark Property Services, Inc.'
+description: 'Find contact information about the principals, regional managers and HOA staff at Landmark Property Services, Inc.'
+keywords: 'Brian Chase, Pinson Neal, Judy Olive, multifamily, apartments, owners, home owners association'
+---
+<!--=== Meet Our Team ===-->
+<div class="parallax-team parallaxBg">
+    <div class="container content">
+        <div class="title-box-v2">
+            <h2>Meet Our <span class="color-green">Team</span></h2>
+        </div>
+
+        <!-- Principals -->
+        <div class="row">
+            <% data.meet_our_team.principals.each do |principal| %>
+                <!-- Team v2 -->
+                <div class="col-md-4 col-sm-12">
+                    <div class="team-v2">
+                        <img src="/assets/img/landmark/<%= principal.photo %>" alt="<%= principal.name %>" />
+                        <div class="inner-team">
+                            <h3><%= principal.name %></h3>
+                            <small class="color-green"><%= principal.title %></small>
+                            <p><i class="fa fa-envelope"></i> <%= principal.email %></p>
+                            <div class="readmore">
+                                <% principal.bio.each do |paragraph| %>
+                                    <p><%= paragraph %></p>
+                                <% end %>
+                            </div>
+                            <hr>
+                            <ul class="list-inline team-social">
+                                <% principal.social_media.each do |social| %>
+                                    <li>
+                                        <a data-placement="top" data-toggle="tooltip" class="tw tooltips" data-original-title="<%= social.name.capitalize %>" href="<%= social.url %>" target="_blank">
+                                            <i class="fa <%= social.icon %>"></i>
+                                        </a>
+                                    </li>
+                                <% end %>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            <% end %>
+        </div>
+        <!-- End Principals -->
+
+        <!-- Multifamily -->
+        <% data.meet_our_team.multifamily.each_slice(4) do |group| %>
+            <div class="row">
+                <% group.each do |person| %>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="team-v2">
+                            <img src="/assets/img/landmark/<%= person.photo %>" alt="<%= person.name %>" />
+                            <div class="inner-team">
+                                <h3><%= person.name %></h3>
+                                <small class="color-green"><%= person.title %></small>
+                                <p><i class="fa fa-envelope"></i> <%= person.email %></p>
+                                <hr>
+                                <ul class="list-inline team-social">
+                                    <% person.social_media.each do |social| %>
+                                        <li>
+                                            <a data-placement="top" data-toggle="tooltip" class="tw tooltips" data-original-title="<%= social.name.capitalize %>" href="<%= social.url %>" target="_blank">
+                                                <i class="fa <%= social.icon %>"></i>
+                                            </a>
+                                        </li>
+                                    <% end %>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                <% end %>
+            </div>
+        <% end %>
+        <!-- End Multifamily -->
+
+        <!-- HOA and staff-->
+        <% data.meet_our_team.hoa.each_slice(4) do |group| %>
+            <div class="row">
+                <% group.each do |person| %>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="team-v2">
+                            <img src="/assets/img/landmark/<%= person.photo %>" alt="<%= person.name %>" />
+                            <div class="inner-team">
+                                <h3><%= person.name %></h3>
+                                <small class="color-green"><%= person.title %></small>
+                                <p><i class="fa fa-envelope"></i> <%= person.email %></p>
+                                <% if person.phone %>
+                                    <p><i class="fa fa-phone"></i> <%= person.phone %></p>
+                                <% end %>
+                            </div>
+                        </div>
+                    </div>
+                <% end %>
+            </div>
+        <% end %>
+        <!-- End HOA and staff -->
+    </div>
+</div>
+<!--=== End Meet Our Team ===-->

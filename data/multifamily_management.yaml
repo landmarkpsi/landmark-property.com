@@ -1,0 +1,69 @@
+stats:
+  - number: 6000
+    icon: fa fa-building-o
+    category: Multifamily Units
+  - number: 3500
+    icon: fa fa-home
+    category: HOA &amp; Condos
+  - number: 93
+    icon: icon-calculator
+    category: Average Percent Occupancy
+  - number: 11
+    icon: fa fa-trophy
+    category: Awards
+
+lead:
+  header: Multifamily Management Services
+  text:
+  - Managing more than 6,000 apartment homes, 3,500 condominium and HOA units and other commercial properties throughout the Mid-Atlantic, Landmark offers a wealth of experience and a proven track record of results. Landmark has consistently achieved an average occupancy of 93% across its portfolio of more than 6,000 multifamily homes.
+  - Our company was founded on the principle that every property requires personal attention and customizable strategies in order to remain competitive in today’s dynamic marketplace. Landmark is committed to providing the tools, resources and knowledge base of much larger firms while maintaining the personal attention you’d expect from a small business. We utilize new technologies and detailed analytics that streamline our management practices. This allows us to spend more time in the field because this is where we can build the greatest value into your asset.
+  - When we develop a comprehensive management plan, we strategize at every level, from lead to lease, from resident to referral and from our owners’ goals to actualization. We build accountability into every process and procedure from the very beginning as a means to reward our team for achieving our property benchmarks and train our team to achieve our company goals. We hold ourselves accountable for each property’s success, using the most accurate and complete analytics to assess community performance on a daily basis. We search for innovators in our industry, utilizing partnerships with other industry leaders and leading-edge technology to give our properties pricing power while maximizing budgetary resources. We invest in the education of our employees, because we understand that human resources are our biggest asset.
+  - Let Landmark show you the power of personalized attention.  Contact us about our multifamily management services today.
+body:
+  - header: Customized Management Strategy
+    icon: fa fa-building-o
+    text:
+    - An effective management strategy provides a customizable road map that leads every property toward pricing power within its respective market. We utilize our partnerships with leading multifamily data providers and our specialization in the Mid-Atlantic multifamily market to create a custom management and marketing plan for your community.  We create a toolset for your community and the onsite team to which makes it easy for everyone to match performance to benchmark in order to achieve our ownership goals.
+  - header: Innovative Multifamily Technologies
+    icon: fa fa-laptop
+    text:
+    - Landmark has partnered with the leading provider of multifamily technologies to provide our site teams with a robust suite of tools to support our community and ownership goals. We leverage an enterprise software environment that allows us to integrate multiple platforms and report across disparate data sets. This allows us to provide business intelligence (BI) level reporting while offering customer-facing solutions for our residents and prospects.  From lead management that ensures the best level of service throughout the entire lead life cycle to online leasing solutions that create a virtual 24 hour leasing office to our exclusive resident social network that promotes community networking, online payments, work order submission and resident retention, Landmark’s technologies can make your community a leader in the marketplace.  When it comes to optimizing asset operations, our unique facilities app allows for mobile maintenance management.  Maintenance can’t be managed from behind a desk.  At Landmark, our techs can operate in the field and receive, complete and create work orders right from their mobile phones.  Likewise our online purchasing system allows us to provide the right materials and resources while ensuring greater budget compliance at every level of management.  Let us help you create and implement a technology toolkit that can literally transform your business.
+  - header: Accountability for Results
+    icon: fa fa-line-chart
+    text:
+      - At Landmark, we believe that our employees are our greatest assets. We know that strong human resources create strong property assets. We invest in tools and resources that help our team build value into the assets we manage. Using lead management solutions, mobile facilities management, a customized learning management system and more, we are able to cultivate a successful team and build accountability into our management practices.  Using an enterprise property management software solution, we can track results across every department and channel and create more holistic strategies and solutions.
+
+awards:
+  - year: 2015 
+    title: Community of the Year (Rents up to $750)
+    receipient: Stratford Hills/Bethany Springs
+  - year: 2015 
+    title: Community of the Year (Rents from $850 to $950)
+    receipient: Cloverleaf Lake
+  - year: 2015 
+    title: Community Team of the Year (Less Than 300 Units)
+    receipient: Overlook at Brook Run
+  - year: 2014 
+    title: Gloria D. Jacobs VAMA Member of the Year
+    receipient: Lauren Curley, Marketing Director
+  - year: 2014 
+    title: Affordable Community of the Year
+    receipient: The Glenns at Millers Lane
+  - year: 2014 
+    title: Affordable Community of the Year
+    receipient: Longhill Grove Apartments
+  - year: 2014 
+    title: Community of the Year (Rents up to $750)
+    receipient: Willow Oaks Apartments
+  - year: 2013 
+    title: Gloria D. Jacobs VAMA Member of the Year
+    receipient: J. Brian Chase, President
+  - year: 2013 
+    title: Adaptive Reuse Community of the Year 
+    receipient: Perry Street Lofts
+  - year: 2013 
+    title: Affordable Community of the Year 
+    receipient: Creekpointe Apartments
+  - year: 2013 
+    title: Community of the Year (Rents from $1,000 to $1,199)
+    receipient: Perry Street Lofts

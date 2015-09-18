@@ -1,0 +1,840 @@
+properties:
+  - name: 1005 Grove Avenue @ VCU
+    city: 'Richmond, VA'
+    img: 1005grove.jpg
+    address: 1005 Grove Avenue, Richmond, VA  23220
+    lng: -77.454514
+    lat: 37.548144
+    region: richmond
+    neighborhood: VCU
+    bedrooms: 1
+    petfriendly: true
+    descriptions: 
+      - Go ahead! Press that snooze button one more time! When you live this close to campus, you're always just a short walk (or jog, depending on how many times you press the snooze button) away from class. 1005 Grove Avenue is located on VCU's campus, giving you the freedom of apartment living with the convenience of on-campus housing. When the question is "to dorm or not to dorm," the answer is 1005 Grove Avenue - VCU's “Un-dorm!"
+    links:
+      - title: Learn More
+        url: 'http://www.liveatvcu.com'
+      - title: View Floor Plans
+        url: 'http://www.liveatvcu.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.liveatvcu.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.liveatvcu.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.liveatvcu.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.liveatvcu.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'https://1005grove.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'https://1005grove.activebuilding.com/'
+
+  - name: Arbor Crest Apartments
+    city: 'Charlottesville, VA'
+    img: arborcrest.jpg
+    address: 101 Arbor Crest Drive, Charlottesville, VA 22901
+    lng: -78.4989908
+    lat: 38.072157
+    region: charlottesville
+    neighborhood: Charlottesville
+    bedrooms: 2
+    petfriendly: true
+    descriptions:
+      - If you’re looking for the perfect place to enjoy your golden years, look no further than Arbor Crest Apartments. Arbor Crest is a senior community offering semi-remodeled apartments to people 55 years of age and better. Our residents love the picturesque grounds featuring beautiful azaleas, crape myrtles and lively flower beds. In the spring and summer, many of our residents select their own garden plots, where they can enjoy gardening and growing vegetables and flowers that make the community even more vibrant.
+      - Come take a tour of our beautiful community and learn more about our Hydraulic Road Charlottesville 55+ apartments today!
+    links:
+      - title: Learn More
+        url: 'http://www.arborcrest-online.com'
+      - title: View Floor Plans
+        url: 'http://www.arborcrest-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.arborcrest-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.arborcrest-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.arborcrest-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.arborcrest-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://arborcrest.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://arborcrest.activebuilding.com/'
+
+  - name: Berkshire and Barter Court Apartments
+    city: 'Charlottesville, VA'
+    img: berkshire.jpg
+    address: 2410 N. Berkshire Pl., Apt. 46, Charlottesville, VA 22901
+    lng: -78.4972221
+    lat: 38.0656793
+    region: charlottesville
+    neighborhood: Charlottesville
+    bedrooms: 2 &amp; 3
+    petfriendly: true
+    descriptions:
+      - The Berkshire Apartments just got a makeover and we can’t wait to show you our new look! With refinished hardwood flooring or brand new carpeting, totally updated kitchens with new countertops, cabinets and appliances, along with the same huge floor plans and closet space we’re known for, you’ll fall in love with the new Berkshire Apartments! At the Berkshire Apartments, you’re in the center of all the action! We are located within walking distance to the brand new Shops at Stonefield. There you’ll find Charlottesville’s newest collection of shops, fine dining and entertainment, including a Trader Joe’s and an iMax Movie Theater! Enjoy a two minute drive to the University of Virginia (UVA), the UVA Medical Center, the UVA Law School, Darden School of Business and so much more! Catch the CAT, the Charlottesville Transit System that is, right outside of our community. Remember, UVA students and employees ride for free, making your commute a breeze! You work hard. You study hard. Live well at the Berkshire Apartments!
+    links:
+      - title: Learn More
+        url: 'http://www.berkshire-online.com'
+      - title: View Floor Plans
+        url: 'http://www.berkshire-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.berkshire-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.berkshire-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.berkshire-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.berkshire-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://berkshire.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://berkshire.activebuilding.com/'
+
+  - name: Brookview Apartments
+    city: 'Jacksonville, NC'
+    img: brookview.jpg
+    address: 318-4 Richlands Avenue, Jacksonville, NC  28540
+    lng: -77.422465
+    lat: 34.763938
+    region: north-carolina
+    neighborhood: Jacksonville
+    bedrooms: 2
+    petfriendly: true
+    descriptions:
+      - "At Brookview Apartments, we understand that bigger is always better when it comes to apartment living! That’s why we offer full-sized townhomes with more than enough space for everything that’s important to you. Whether you’re cooking with friends and family in our huge eat-in kitchen or you’re looking for the perfect oversized closet, Brookview Apartments let’s you live large without breaking the bank! When you step outside your huge apartment, you’ll find a world of conveniences waiting for you. We're located just a short drive from both Camp Lejeune, New River Air Station and Coastal Community College as well as all the great shops and restaurants Jacksonville has to offer."
+      - Brookview is getting a makeover! Come check out our newly remodeled townhomes complete with a fully renovated, crave-worthy, kitchen!
+    links:
+      - title: Learn More
+        url: 'http://www.brookview-online.com'
+      - title: View Floor Plans
+        url: 'http://www.brookview-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.brookview-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.brookview-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.brookview-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.brookview-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://brookviewapts.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://brookviewapts.activebuilding.com/'
+
+  - name: Cloverleaf Lake Townhouse Apartments
+    city: 'Richmond, VA'
+    img: cloverleaf.jpg
+    address:  6923 Starview Court, North Chesterfield, VA  23225
+    lng: -77.520924
+    lat: 37.489534
+    region: richmond
+    neighborhood: Chesterfield
+    bedrooms: 1, 2 &amp; 3
+    petfriendly: true
+    descriptions:
+      - Some people prefer to live in an average run-of-the-mill apartment community. Then, there are those who understand that you can live a luxury lifestyle without going over budget. You enjoy dining in the finest restaurants and visiting the many shops at the new Stonebridge Mall, but, you're most satisfied when you find a fantastic deal. When it comes to your home, you prefer upscale, high-end townhome living, but, you don't want to break the bank. Cloverleaf Lake offers the best of both worlds, featuring newly remodeled townhomes at an affordable price. From stunning granite countertops to the stainless steel appliances your friends would die for, Cloverleaf Lake has it all! Our open living room and separate dining room features hardwood flooring and oversized windows. There is no need to worry about whether your bedroom furniture will fit. Cloverleaf Lake offers the largest floor plans available in North Chesterfield! Let Cloverleaf Lake makes your dream townhome come true!
+    links:
+      - title: Learn More
+        url: 'http://www.cloverleaflake-online.com'
+      - title: View Floor Plans
+        url: 'http://www.cloverleaflake-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.cloverleaflake-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.cloverleaflake-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.cloverleaflake-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.cloverleaflake-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://cloverleaflake.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://cloverleaflake.activebuilding.com/'
+
+  - name: Colonial Heights Apartments
+    city: 'Colonial Heights, VA'
+    img: colonialheights.jpg
+    address: 201 Newcastle Drive, Colonial Heights, VA  23834
+    lat: 37.2648707
+    lng: -77.4088419
+    region: richmond
+    neighborhood: Colonial Heights
+    bedrooms: 1, 2 &amp; 3
+    petfriendly: true
+    descriptions:
+      - Getting everything you want in an affordable apartment and staying within your budget is possible at Colonial Heights Apartments, located close to Fort Lee and Virginia State University (VSU) in Colonial Heights, VA. Our value packed one bedroom and two bedroom apartments prove that there's a world of difference between an affordable apartment and a cheap apartment.
+      - Enjoy a convenient location close to everything Colonial Heights has to offer. Whether you're looking for quaint country shops, delicious local restaurants, easy access to I-95 or your place of employment, Colonial Heights Apartments has it all! Our community is located just minutes from Fort Lee, VSU and the great shops and restaurants of Southpark Mall. Low on price, high on value, our 1BR, 2BR and 3BR apartments offer all the little things that make life easier. From large bedrooms with ample closet space to large eat-in kitchens, Colonial Heights apartments have it all!
+    links:
+      - title: Learn More
+        url: 'http://www.colonialheights-online.com'
+      - title: View Floor Plans
+        url: 'http://www.colonialheights-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.colonialheights-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.colonialheights-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.colonialheights-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.colonialheights-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://colonialheights.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://colonialheights.activebuilding.com/'
+
+  - name: Creekpointe Apartments
+    city: 'Midlothian, VA'
+    img: creekpointe.jpg
+    address: 14600 Creekpointe Circle, Midlothian, VA  23114
+    lat: 37.4668924
+    lng: -77.6749276
+    region: richmond
+    neighborhood: Midlothian
+    bedrooms: 2 &amp; 3
+    petfriendly: true
+    descriptions:
+      - Getting everything you want in an affordable apartment and staying within your budget is possible at Creekpointe Apartments in Midlothian, VA. Our value packed 2 & 3 bedroom apartments prove that you can live luxuriously without breaking the bank.  We know that when it comes to apartment living, bigger is always better.  That’s why we offer the largest floor plans in Midlothian with tons of extra closet space and storage. Enjoy an open concept living space, complete with a kitchen bar and separate dining area. In the spring and summer, you’ll love opening your patio doors to extend your living space to the outdoors. Our huge bedrooms are sure to fit all of your stuff, and you’ll love that every apartment offers two full bathrooms!  Don’t settle for just an affordable apartment.  Move to Creekpointe Apartments and enjoy luxury living at an affordable price!
+    links:
+      - title: Learn More
+        url: 'http://www.creekpointe-online.com'
+      - title: View Floor Plans
+        url: 'http://www.creekpointe-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.creekpointe-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.creekpointe-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.creekpointe-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.creekpointe-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://creekpointe.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://creekpointe.activebuilding.com/'
+
+  - name: Gerwyn Manor
+    city: 'Sandston, VA'
+    img: gerwynmanor.jpg
+    address: 5194 Gerwyn Circle, Sandston, VA  23150
+    lat: 37.5158491
+    lng: -77.3434924
+    region: richmond
+    neighborhood: Sandston  
+    bedrooms: 2
+    petfriendly: true
+    descriptions:
+      - Located in the convenient and affordable East End/Sandston neighborhood of Richmond, VA, Gerwyn Manor apartments offers spacious 2BR townhomes that give you enormous value per square foot. Perhaps even more important than the walls and windows that make up your apartment at Gerwyn Manor is the close proximity to the places and things that are important to you. Our townhomes are just minutes from all of the great shopping and dining White Oak Mall has to offer and most of the area's largest employers including Richmond International Airport, the U.S. Post Office on Technology Boulevard and the Byrd Center Industrial Area.
+      - Welcome home to Gerwyn Manor Apartments, where we believe you don't have to pay a lot to get exactly what you want.
+    links:
+      - title: Learn More
+        url: 'http://www.gerwynmanor-online.com'
+      - title: View Floor Plans
+        url: 'http://www.gerwynmanor-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.gerwynmanor-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.gerwynmanor-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.gerwynmanor-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.gerwynmanor-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://gerwynmanor.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://gerwynmanor.activebuilding.com/'
+
+  - name: The Glenns at Millers Lane
+    city: 'Richmond, VA'
+    img: glenns.jpg
+    address: 4700 Milers Lane, Richmond, VA  23231
+    lat: 37.52328
+    lng: -77.3661357
+    region: richmond
+    neighborhood: East End
+    bedrooms: 2 &amp; 3
+    petfriendly: true
+    descriptions:
+      - Getting everything you want in an affordable apartment and staying within your budget is possible at the Glenns at Millers Lane in Eastern Henrico County. Our value packed 2 & 3 bedroom apartments prove that you can live large without breaking the bank.  We know that when it comes to apartment living, bigger is always better.  That’s why we offer the largest floor plans in Eastern Henrico with tons of extra closet space and storage. Enjoy an open concept living space, complete with a kitchen bar and separate dining area. In the spring and summer, you’ll love opening your patio doors to extend your living space to the outdoors. Our huge bedrooms are sure to fit all of your stuff, and you’ll love that every apartment offers two full bathrooms!  Don’t settle for just an affordable apartment.  Move to the Glenns at Millers Lane and enjoy living large at an affordable price!
+    links:
+      - title: Learn More
+        url: 'http://www.theglenns-online.com'
+      - title: View Floor Plans
+        url: 'http://www.theglenns-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.theglenns-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.theglenns-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.theglenns-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.theglenns-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://theglenns.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://theglenns.activebuilding.com/'
+
+  - name: The Hamptons
+    city: 'Virginia Beach, VA'
+    img: hamptons.jpg
+    address: 5781 Lake Edward Drive, Virginia Beach, VA  23462
+    lat: 36.8653066
+    lng: -76.180918
+    region: hampton-roads
+    neighborhood: Virginia Beach
+    bedrooms: 1, 2 &amp; 3
+    petfriendly: true
+    descriptions:
+      - Welcome home to the Hamptons Apartments, located in Virginia Beach, Virginia.  The Hamptons Apartments boasts a convenient location close to everything Virginia Beach has to offer. Whether you're looking for premier shopping, a variety of restaurants or easy access to the beach or your place of employment, the Hamptons has it all! We're just minutes from the new Virginia Tide Light Rail as well as the Navy Amphibious Base (NAB) at Little Creek, the Naval Air Station (NAS) Oceana and Virginia Weslyan University.  At the Hamptons Apartments, we offer a variety of spacious 1BR, 2BR and 3BR floor plans. Our apartments feature all of the amenities you're looking for in your new rental home including central air conditioning, a fully equipped kitchen with dishwasher, plush wall-to-wall carpeting, private patios and balconies and more! With 8 different floor plans to choose from, we know you'll find the perfect apartment at the Hamptons. 
+    links:
+      - title: Learn More
+        url: 'http://www.thehamptons-online.com'
+      - title: View Floor Plans
+        url: 'http://www.thehamptons-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.thehamptons-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.thehamptons-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.thehamptons-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.thehamptons-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://hamptonsapts.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://hamptonsapts.activebuilding.com/'
+
+  - name: Heritage Pointe and Remuda Crossing
+    city: 'Chesterfield, VA'
+    img: heritagepointe.jpg
+    address: 2796 Goolsby Avenue, Chesterfield, VA  23234
+    lat: 37.4518348
+    lng: -77.4446538
+    region: richmond
+    neighborhood: Chesterfield
+    bedrooms: 2
+    petfriendly: true
+    descriptions:
+      - At Heritage Pointe and Remuda Crossing Apartments, we understand that an apartment is more than just a rental home. It's a place where you can connect, recharge and relax. Our convenient North Chesterfield location means you're always just minutes away from the people and places that are important to you. You'll love the short commute to some of the area's biggest employers including Dupont Fibers, Phillip Morris & Chippenham Hospital. If you're looking for fantastic shopping and dining you'll find it right around the corner at the Chesterfield Towne Center.  Best of all, we're located in the coveted and always top-rated Chesterfield County School System.
+      - Our 2BR apartments feature all of the amenities you're looking for in your new rental home including central air conditioning, a fully equipped kitchen with dishwasher, plush wall-to-wall carpeting and more! Looking for a more updated apartment? You'll find our remodeled 2BR apartments stunning and affordable.
+    links:
+      - title: Learn More
+        url: 'http://www.heritagepointe-online.com'
+      - title: View Floor Plans
+        url: 'http://www.heritagepointe-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.heritagepointe-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.heritagepointe-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.heritagepointe-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.heritagepointe-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://heritagepointe.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://heritagepointe.activebuilding.com/'
+
+  - name: Hickory Point Townhomes
+    city: 'Newport News, VA'
+    img: hickorypoint.jpg
+    address: 399-A Hickory Point Blvd, Newport News, VA  23608
+    lat: 37.1559674
+    lng: -76.5579493
+    region: hampton-roads
+    neighborhood: Newport News
+    bedrooms: 2
+    petfriendly: true
+    descriptions:
+      - Welcome home to Hickory Point Townhomes, located in Newport News, Virginia. Hickory Point Townhomes boasts a convenient location close to everything Newport News has to offer. Whether you're looking for premier shopping, a variety of restaurants or easy access to the beach or your place of employment, Hickory Point Townhomes has it all! We're one of the closest rental communities to Fort Eustis and offer easy access to Warwick Boulevard, I-64 and the Patrick Henry Corridor. Both the Jefferson Commons Shopping Center and the Patrick Henry Mall are located just a hop, skip and a jump from Hickory Point so that you can enjoy great shopping and dining at over 120 different stores and restaurants!
+      - At Hickory Point Townhomes, we offer huge 2BR townhomes. Our townhomes feature all of the amenities you're looking for in your new rental home including central air conditioning, a fully equipped, remodeled kitchen with dishwasher, convenient laminate flooring downstairs and plush wall to wall carpeting upstairs, private patios and and more! With our giant floor plans, ample closet space and remodeled kitchens with the most counter and cabinet space you can imagine in your dream townhome, we know you'll find your perfect home at Hickory Point.
+    links:
+      - title: Learn More
+        url: 'http://www.hickorypoint-online.com'
+      - title: View Floor Plans
+        url: 'http://www.hickorypoint-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.hickorypoint-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.hickorypoint-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.hickorypoint-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.hickorypoint-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://hickorypoint.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://hickorypoint.activebuilding.com/'
+
+  - name: Hilliard Road Apartments
+    city: 'Richmond, VA'
+    img: hilliardroad.jpg
+    address: 2812 Hilliard Road, Richmond, VA  23228
+    lat: 37.616041
+    lng: -77.4860999
+    region: richmond
+    neighborhood: Henrico
+    bedrooms: 1 &amp; 2
+    petfriendly: true
+    descriptions:
+      - Low on price, high on value, our 1 & 2 bedroom apartments offer all the little things that make life easier, including a convenient location in Richmond’s West End! From efficient galley style kitchens to central air conditioning to large bedrooms with ample closet space, the Hilliard Road Apartments offer everything you need in an apartment at a price that can’t be beat! Hilliard Road Apartments offers the perfect neighborhood if you want to escape from the hustle and bustle of the city while still living close to Downtown Richmond, Short Pump Town Center and Broad Street. As a resident of Hilliard Road Apartments, you’ll also enjoy the fantastic Henrico County School District. Always top rated in the state of Virginia, the Henrico School District is a coveted choice in Richmond. When location matters, choose Hilliard Road Apartments!
+    links:
+      - title: Learn More
+        url: 'http://www.hilliardroad-online.com'
+      - title: View Floor Plans
+        url: 'http://www.hilliardroad-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.hilliardroad-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.hilliardroad-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.hilliardroad-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.hilliardroad-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://hilliardroad.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://hilliardroad.activebuilding.com/'
+
+  - name: Landmark at 1700
+    city: 'Richmond, VA'
+    img: landmarkat1700.jpg
+    address: 1700 W. Main Street, Richmond, VA 23220
+    lat: 37.5482192
+    lng: -77.462211
+    region: richmond
+    neighborhood: The Fan
+    bedrooms: 1
+    petfriendly: true
+    descriptions:
+      - The suburbs can wait. We have your plan to move to the Fan. Pastel shops and local restaurants are a sharp contrast to the beige and bland of commercial chains and cookie cutter construction. Yet, the vintage charm and low key atmosphere form a similar contrast to the swanky streets of Shockoe Bottom. As fans of the Fan, we knew that there was no better place for our signature apartment community - Landmark at 1700. Our community will feature 22 apartments, each with a unique layout to match the eclectic architectural style of the neighborhood. Contact us today for more information!
+    links:
+      - title: Learn More
+        url: 'http://www.landmarkat1700.com'
+      - title: View Floor Plans
+        url: 'http://www.landmarkat1700-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.landmarkat1700-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.landmarkat1700-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.landmarkat1700-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.landmarkat1700-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://1700main.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://1700main.activebuilding.com/'
+
+  - name: Lieutenants Run
+    city: 'Petersburg, VA'
+    img: lieutenantsrun.jpg
+    address: 102 Lieutenants Run Drive, Petersburg, VA  23805
+    lat: 37.2066067
+    lng: -77.403506
+    region: richmond
+    neighborhood: Petersburg
+    bedrooms: 2 &amp; 3
+    petfriendly: true
+    descriptions:
+      - Getting everything you want in an affordable apartment and staying within your budget is possible at Lieutenants Run Apartments.  Located just minutes from Fort Lee, Southpark Mall and I-95, and situated in a wooded residential neighborhood, Lieutenants Run offers city convenience in a suburban setting.  Our value packed 2 & 3 bedroom apartments prove that you can live large without breaking the bank.  We know that when it comes to apartment living, bigger is always better.  That’s why we offer the largest floor plans in Petersburg, with tons of extra closet space and storage. Enjoy an open concept living space, complete with a kitchen bar and separate dining area. In the spring and summer, you’ll love opening your patio doors to extend your living space to the outdoors. Our huge bedrooms are sure to fit all of your stuff, and you’ll love that every apartment offers two full bathrooms!  Don’t settle for just an affordable apartment.  Move to Lieutenants Run Apartments and enjoy living large at an affordable price!
+    links:
+      - title: Learn More
+        url: 'http://www.lieutenantsrun-online.com'
+      - title: View Floor Plans
+        url: 'http://www.lieutenantsrun-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.lieutenantsrun-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.lieutenantsrun-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.lieutenantsrun-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.lieutenantsrun-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://lieutenantsrun.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://lieutenantsrun.activebuilding.com/'
+
+  - name: Longhill Grove
+    city: 'Williamsburg, VA'
+    img: longhillgrove.jpg
+    address: 3800 Hill Grove Lane, Williamsburg, VA  23188
+    lat: 37.3151246
+    lng: -76.7890183
+    region: williamsburg
+    neighborhood: Williamsburg
+    bedrooms: 2 &amp; 3
+    petfriendly: true
+    descriptions:
+      - Getting everything you want in an affordable apartment and staying within your budget is possible at Longhill Grove Apartments.  Our value packed 2 & 3 bedroom apartments prove that you can live large without breaking the bank.  We know that when it comes to apartment living, bigger is always better.  That’s why we offer the largest floor plans in Williamsburg, with tons of extra closet space and storage. Enjoy an open concept living space, complete with a kitchen bar and separate dining area. In the spring and summer, you’ll love opening your patio doors to extend your living space to the outdoors. Our huge bedrooms are sure to fit all of your stuff, and you’ll love that every apartment offers two full bathrooms!  Don’t settle for just an affordable apartment.  Move to Longhill Grove Apartments and enjoy living large at an affordable price!
+    links:
+      - title: Learn More
+        url: 'http://www.longhillgrove-online.com'
+      - title: View Floor Plans
+        url: 'http://www.longhillgrove-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.longhillgrove-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.longhillgrove-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.longhillgrove-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.longhillgrove-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://longhillgrove.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://longhillgrove.activebuilding.com/'
+
+  - name: The Mayfair
+    city: 'Virginia Beach, VA'
+    img: mayfair.jpg
+    address: 5826 Newtown Arch, Virginia Beach, VA  23462
+    lat: 36.8388509
+    lng: -76.1901677
+    region: hampton-roads
+    neighborhood: Virginia Beach
+    bedrooms: 1, 2, 3 &amp; 4
+    petfriendly: true
+    descriptions:
+      - Welcome home to the Mayfair Apartments, located in Virginia Beach, Virginia. Enjoy a convenient location close to everything Virginia Beach has to offer. Whether you're looking for premier shopping, a variety of restaurants, easy access to the beach or your place of employment, the Mayfair has it all! We're just minutes from the new Virginia Tide Light Rail as well as the Navy Amphibious Base (NAB) at Little Creek, the Naval Air Station (NAS) Oceana and Virginia Weslyan College. The Mayfair Apartments are located in the award-winning Kempsville School District.
+      - At the Mayfair Apartments, we offer a variety of spacious 1BR, 2BR, 3BR and 4BR floor plans. Our apartments feature all of the amenities you're looking for in your new rental home including central air conditioning, a fully equipped kitchen with dishwasher, plush wall-to-wall carpeting, private patios and balconies and more! The Mayfair Apartments understands that size matters when it comes to choosing the right apartment. That's why we offer huge 3BR and 4BR apartments to make sure you have enough space!
+    links:
+      - title: Learn More
+        url: 'http://www.mayfair-online.com'
+      - title: View Floor Plans
+        url: 'http://www.mayfair-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.mayfair-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.mayfair-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.mayfair-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.mayfair-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://themayfair.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://themayfair.activebuilding.com/'
+
+  - name: Misty Pines
+    city: 'Ashland, VA'
+    img: mistypines.jpg
+    address: 305A Arlington Street, Ashland, VA 23005
+    lat: 37.7543649
+    lng: -77.4775921
+    region: richmond
+    neighborhood: Ashland
+    bedrooms: 1 &amp; 2
+    petfriendly: false
+    descriptions:
+      - "Just minutes from Richmond, but a world away from the hustle and bustle of the city, Misty Pines Townhomes offers small town charm with big city conveniences. Ashland is the perfect neighborhood if you want to enjoy country living while staying close to Downtown Richmond, Short Pump Town Center and Broad Street. Whether you're looking for quaint country shops, delicious local restaurants or easy access to I-95, Misty Pines has it all! Our spacious 1BR and 2BR townhomes ensure that you get the most value per square foot. Fall in love with convenient country living at Misty Pines Apartments."
+    links:
+      - title: Learn More
+        url: 'http://www.mistypines-online.com'
+      - title: View Floor Plans
+        url: 'http://www.mistypines-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.mistypines-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.mistypines-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.mistypines-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.mistypines-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://mistypines.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://mistypines.activebuilding.com/'
+
+  - name: North Slope Apartments
+    city: 'Richmond, VA'
+    img: northslope.jpg
+    address: 2835-D Hilliard Road, Richmond, VA  23228
+    lat: 37.614248
+    lng: -77.485238
+    region: richmond
+    neighborhood: Henrico
+    bedrooms: 1
+    petfriendly: true
+    descriptions:
+      - "When location matters, choose North Slope Apartments. Located in the beautiful Lakeside neighborhood of Henrico County, you’ll have access to an eclectic mix of parks, shops and restaurants. Residents of North Slope Apartments will enjoy a short drive to Downtown Richmond and the Short Pump Town Center. No matter what you’re looking for, you can find it all within 15 minutes of North Slope’s central Henrico location. In addition, you’ll love living in the coveted Henrico County school district, which is always top rated in the state of Virginia. When you choose North Slope Apartments, you're making a choice that gives you convenience. Our spacious 1BR apartments offer efficient galley style kitchens that maximize countertop and cabinet space. Relax in your spacious living room or enjoy coffee on your private patio or balcony. Unwind from the day in your cozy bedroom with more than enough storage space for your entire wardrobe. Best of all, no matter where you need to go, it’s all just minutes away from the best location in town."
+    links:
+      - title: Learn More
+        url: 'http://www.northslope-online.com'
+      - title: View Floor Plans
+        url: 'http://www.northslope-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.northslope-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.northslope-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.northslope-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.northslope-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://northslope.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://northslope.activebuilding.com/'
+
+  - name: Old Bridge Apartments 
+    city: 'Richmond, VA'
+    img: oldbridge.jpg
+    address: 2835-D Hilliard Road, Richmond, VA  23228
+    lat: 37.614248
+    lng: -77.485238
+    region: richmond
+    neighborhood: Henrico
+    bedrooms: 1, 2 &amp; 3
+    petfriendly: true 
+    descriptions:
+      - Welcome home to Old Bridge Apartments, located in the beautiful Lakeside neighborhood of Henrico County. Lakeside is truly the perfect neighborhood if you want to escape from the hustle and bustle of the city while still living close to Downtown Richmond, Short Pump and Broad Street. Our convenient location puts you close to everything Henrico has to offer. Whether you're looking for premier shopping at the Willow Lawn Shopping Center or Short Pump Town Center, a variety of restaurants, or easy access to I-64, 295 and I-95, Old Bridge has it all! As a resident of Old Bridge, you’ll also enjoy the fantastic Henrico School district. Always top rated in the state of Virginia, the Henrico School District is a coveted choice in Richmond, VA.
+      - When you choose Old Bridge Apartments, you're making a choice that gives you convenience. Not only do we have a great location, we offer a variety of different amenities and floor plans designed to make your life easier. Our 1BR, 2BR and 3BR townhomes feature all of the amenities you're looking for in your new rental home. At Old Bridge Apartments, we understand that size matters when it comes to choosing the right apartment. That's why we offer huge floor plans to make sure you have enough space to live, play and enjoy every day in your new home! You’ll love cooking in your fully equipped kitchen complete with dishwasher. In the Spring, Summer and Fall, you’ll enjoy winding down from a long day on your fully enclosed outdoor patio. In the Summer, take a dip in our huge pool or lounge on our large sun deck with a good book or a good friend.
+      - Come take a tour of our community today and we’re sure you’ll agree that Old Bridge Apartments has everything you’re looking for in your new home.
+    links:
+      - title: Learn More
+        url: 'http://www.oldbridge-online.com'
+      - title: View Floor Plans
+        url: 'http://www.oldbridge-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.oldbridge-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.oldbridge-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.oldbridge-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.oldbridge-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://oldbridge.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://oldbridge.activebuilding.com/'
+
+  - name: Overlook at Brook Run
+    city: 'Richmond, VA'
+    img: overlook.jpg
+    address: 1900 Cliffbrook Lane, Richmond, VA  23227
+    lat: 37.6076157
+    lng: -77.4592773
+    region: richmond
+    neighborhood: Henrico
+    bedrooms: 2 &amp; 3
+    petfriendly: true 
+    descriptions:
+      - Getting everything you want in an affordable apartment and staying within your budget is possible at Overlook at Brook Run Apartments.  Our value packed 2 & 3 bedroom apartments prove that you can live large without breaking the bank.  We know that when it comes to apartment living, bigger is always better.  That’s why we offer some of the largest floor plans in Henrico, with tons of extra closet space and storage. Enjoy an open concept living space, complete with a kitchen bar and separate dining area. In the spring and summer, you’ll love opening your patio doors to extend your living space to the outdoors. Our huge bedrooms are sure to fit all of your stuff, and you’ll love that every apartment offers two full bathrooms!  Don’t settle for just an affordable apartment.  Move to Overlook at Brook Run Apartments and enjoy living large at an affordable price!
+    links:
+      - title: Learn More
+        url: 'http://www.overlook-online.com'
+      - title: View Floor Plans
+        url: 'http://www.overlook-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.overlook-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.overlook-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.overlook-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.overlook-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://overlook.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://overlook.activebuilding.com/'
+
+  - name: Sand Ridge Apartments
+    city: 'Wilmington, NC'
+    img: sandridge.jpg
+    address: 1192 Harbour Drive, Wilmington, NC  28401
+    lat: 34.1944852
+    lng: -77.9272347
+    region: north-carolina
+    neighborhood: Wilmington
+    bedrooms: 1, 2 &amp; 3
+    petfriendly: true 
+    descriptions:
+      - "Located just minutes from three of Wilmington’s favorite beaches, Sand Ridge Apartments offers the perfect place to come home and relax after a day in the sun, surf and sand. When it comes to selecting the perfect home, one size doesn't fit all, so we offer a wide variety of floor plans that are the best of every budget. We believe that apartment living is about convenience. No lawn to mow, nothing to maintain so you're free to spend your spare time however you please. Sweat out the stresses of the day in our convenient fitness center; lounge poolside with a good book or a good friend or enjoy our beautiful landscaping with a stroll along the sidewalks and trails that line our community. Our apartment homes feature screened in balconies so you can enjoy your balcony all Spring, Summer and Fall in bug free bliss. In the Winter, curl up on front of your very own fireplace! When you're ready to venture out, the best of Wilmington, NC is just outside your doorstep including beautiful beaches, exciting restaurants, one of the state’s best universities, movies and more. If you’re looking for beach living with suburban convenience, look no further than Sand Ridge Apartments."
+    links:
+      - title: Learn More
+        url: 'http://www.sandridge-online.com'
+      - title: View Floor Plans
+        url: 'http://www.sandridge-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.sandridge-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.sandridge-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.sandridge-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.sandridge-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://sandridge.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://sandridge.activebuilding.com/'
+
+  - name: Southgate Manor
+    city: 'Elizabeth City, NC'
+    img: southgate.jpg
+    address: 828 Westway Drive, Elizabeth City, NC  27909
+    lat: 36.2894703
+    lng: -76.240499
+    region: north-carolina
+    neighborhood: Elizabeth City
+    bedrooms: 2 
+    petfriendly: true 
+    descriptions:
+      - Located in the beautiful community of Elizabeth City, NC, Southgate Manor offers spacious 2BR apartments and town homes with the most value per square foot. Perhaps even more important than the walls and windows that make up your apartment at Southgate Manor is the close proximity to the places and things that are important to you. Located in the Waterfront/Downtown neighborhood of Elizabeth City, Southgate Manor is just minutes from Southgate Mall, Elizabeth City State University (ECSU) and the College of the Albemarle (COA). Choose between one of our cozy townhomes or our spacious garden apartments. Enjoy central air conditioning, a fully equipped kitchen with dishwasher and tons of cabinet and counter space. You’ll love the abundant closet space, large windows, fireplaces (select floor plans) and the convenience of having your own washer/dryer! At Southgate Manor, we strive to provide simple luxuries to residents seeking quality apartment living at an affordable price! From our sparkling pool to our friendly on-site management team to our convenient 24 hour maintenance, we provide excellent customer service and the best modern amenities.
+    links:
+      - title: Learn More
+        url: 'http://www.southgate-online.com'
+      - title: View Floor Plans
+        url: 'http://www.southgate-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.southgate-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.southgate-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.southgate-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.southgate-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://southgatemanor.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://southgatemanor.activebuilding.com/'
+
+  - name: Stratford Hills and Bethany Springs
+    city: 'Richmond, VA'
+    img: stratford.jpg
+    address: 2517 W Tremont Court, Richmond, VA  23225
+    lat: 37.5327363
+    lng: -77.5366392
+    region: richmond
+    neighborhood: Southside
+    bedrooms: 1, 2 &amp; 3
+    petfriendly: true 
+    descriptions:
+      - Located in the beautiful Forest Hills neighborhood of Richmond, Virginia, Stratford Hills and Bethany Springs offers spacious 1BR, 2BR and 3BR apartments and townhomes at an affordable value. Perhaps even more important than the walls and windows that make up your apartment at Stratford Hills and Bethany Springs is the close proximity to the places and things that are important to you. Located just minutes from downtown Richmond, Stratford Hills and Bethany Springs features both a convenient location as well as a secluded wooded setting. Walk or enjoy a short drive to nearby shopping and dining including Wal-Mart, Target, Lowe’s, Martin’s Grocery Store, O’Charley’s, Jason’s Deli and Mexico Restaurant. We’re less than 8 miles from all that historic Richmond has to offer including the Virginia Fine Arts Museum (VMFA), the Science Museum of Virginia, the Children’s Museum of Richmond, Virginia Commonwealth University (VCU), the Medical College of Virginia (MCV) and the University of Richmond.
+    links:
+      - title: Learn More
+        url: 'http://www.stratfordbethany-online.com'
+      - title: View Floor Plans
+        url: 'http://www.stratfordbethany-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.stratfordbethany-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.stratfordbethany-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.stratfordbethany-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.stratfordbethany-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://stratfordhills.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://stratfordhills.activebuilding.com/'
+
+  - name: Tamarack on the Lake
+    city: 'Fayetteville, NC'
+    img: tamarack.jpg
+    address: 3613 Pine Lake Drive, Fayetteville, NC  28311
+    lat: 35.1090691
+    lng: -78.9119836
+    region: north-carolina
+    neighborhood: Fayetteville
+    bedrooms: 1, 2 &amp; 3
+    petfriendly: true 
+    descriptions:
+      - "At Tamarack on the Lake, we offer a variety of spacious 1BR, 2BR and 3BR floor plans. Our apartments feature all of the amenities you're looking for in your new rental home including central air conditioning, a fully equipped kitchen with dishwasher, washer/dryer connections, fireplaces, extra storage, garden tubs and screened porches and balconies! We strive to provide simple luxuries that make your resident experience even better! Take a dip in our sparkling pool, lounge on our spacious sun deck, relax in our cozy clubhouse or play on our volleyball and tennis courts. At Tamarack on the Lake, your home is our passion. Stop by to see us today!"
+    links:
+      - title: Learn More
+        url: 'http://www.tamarack-online.com'
+      - title: View Floor Plans
+        url: 'http://www.tamarack-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.tamarack-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.tamarack-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.tamarack-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.tamarack-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://tamarack.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://tamarack.activebuilding.com/'
+
+  - name: Tanglewood Apartments 
+    city: 'Southern Pines, NC'
+    address: 101 Tanglewood Drive, Southern Pines, NC  28387
+    lat: 35.1792168
+    lng: -79.4225255
+    img: tanglewood.jpg
+    region: north-carolina
+    neighborhood: Southern Pines
+    bedrooms: 1 &amp; 2
+    petfriendly: true 
+    descriptions:
+      - Nestled amidst the long-leaf pines of the Sandhills of North Carolina, Tanglewood Apartments offers a quiet community located minutes from Highways 15/501 and US 1 in Southern Pines. We are approximately half an hour from Fayetteville/Fort Bragg, NC and convenient to schools, shopping and the attractions that make our area unique. Tanglewood Apartments offers a variety of floor plans to fit your lifestyle. With tennis courts, playgrounds, a pool, a fitness center, wood burning fireplaces and trails, Tanglewood Apartments is the perfect home for any season!
+    links:
+      - title: Learn More
+        url: 'http://www.tanglewood-online.com'
+      - title: View Floor Plans
+        url: 'http://www.tanglewood-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.tanglewood-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.tanglewood-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.tanglewood-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.tanglewood-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://tanglewood.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://tanglewood.activebuilding.com/'
+
+  - name: Willow Oaks
+    city: 'Richmond, VA'
+    img: willowoaks.jpg
+    address: 6002-C Willow Oaks Drive, Richmond, VA  23225
+    lat: 37.530571
+    lng: -77.5069777
+    region: richmond
+    neighborhood: Bon Air
+    bedrooms: 1, 2 &amp; 3
+    petfriendly: true 
+    descriptions:
+      - "Get city convenience and suburban surroundings at Willow Oaks Apartments. Nestled in a park-like setting near the Bon Air and Forest Hill neighborhoods, this beautiful community boasts easy access to major highways and downtown Richmond for a living experience that serves up the best of both worlds. Large floor plans create spacious 1, 2 and 3 bedroom apartments - each one uniquely appointed with contemporary features like fully equipped kitchens with breakfast bars, separate dining rooms, walk in closets, and private balconies available with views of the verdant wooded landscape. Pet friendly with its own dog park, Willow Oaks offers fantastic outdoor amenities on 60 acres of beautifully landscaped grounds! you'll enjoy afternoons around the resort-style pool, grilling out with friends, or just taking strolls through the garden courtyards. When your are ready to explore more, Willow Oaks makes it easy with an address close to Chippenham Parkway and Powhite Parkway, and easily accessible to I-64 and I-95. Shop and dine in Stony Point Fashion Park. Indulge in the eclectic nightlife of Downtown Richmond less than 10 minutes away. Whatever you crave, you will find it all minutes away. Best of all, no matter where you go, you always get to come home to a community that is like a natural escape. Willow Oaks -- The Best of Both Worlds"
+    links:
+      - title: Learn More
+        url: 'http://www.willowoaks-online.com'
+      - title: View Floor Plans
+        url: 'http://www.willowoaks-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.willowoaks-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.willowoaks-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.willowoaks-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.willowoaks-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://willowoaks.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://willowoaks.activebuilding.com/'                                
+regions:
+  - name: charlottesville
+    lat: 38.0433686
+    lng: -78.494241
+    zoom: 12
+  - name: hampton-roads
+    lat: 36.931579
+    lng: -76.2284804
+    zoom: 9
+  - name: north-carolina
+    lat: 35.1431849
+    lng: -77.9497138
+    zoom: 7
+  - name: richmond
+    lat: 37.4698306
+    lng: -77.4850578
+    zoom: 9
+  - name: williamsburg
+    lat: 37.3131761
+    lng: -76.7527432
+    zoom: 10

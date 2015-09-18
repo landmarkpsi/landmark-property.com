@@ -1,0 +1,104 @@
+principals:
+  - name: J. Brian Chase
+    title: President and Founder
+    email: bchase@landmark-property.com
+    photo: chase.jpg
+    bio:
+      - Brian is one of three managing partners who founded Landmark in 2002. Prior to his role with Landmark, Brian served as Regional Property Manager for Thalhimer in Richmond, VA. During his tenure with Thalhimer, from 1994-2002, Brian oversaw the management of both apartments and commercial office buildings. Brian is a graduate of Virginia Polytechnic Institute and State University (Virginia Tech) with a B.S. in Property Management. He is also a licensed Virginia Real Estate Salesperson. Brian has held positions as Vice President and member of the Board of Directors of the Virginia Apartment Management Association (VAMA), member of the Independent Rental Owners and Legislative Committee for the National Apartment Association (NAA) and President and Vice President of the Central Virginia Apartment Association (CVAA).
+    social_media:
+      - name: twitter
+        url: https://twitter.com/landmarkpropsrv
+        icon: fa-twitter
+  - name: M. Pinson Neal III
+    title: CEO and Founder
+    email: pneal@landmark-property.com
+    photo: neal.jpg
+    bio:
+      - Pinson is one of three managing partners who founded Landmark in 2002. Prior to Landmark, Pinson served as the Director of Residential Property Management for Insignia Thalhimer. During his 12 year tenure with Thalhimer, Pinson was responsible for the management of 4,000 multifamily units located in the Richmond and Hampton Roads markets. Pinson also managed tax credit and receiverships properties, condominium units and commercial properties. Pinson specializes in the legal aspects of residential housing including court work, trials and collection of bad debt. Pinson is a graduate of Virginia Commonwealth University and holds a Post Baccalaureate Certificate in Real Estate and Urban Land Development. He is a Certified Property Manager through the Institute of Real Estate Management and is a licensed Real Estate Broker in Virginia and North Carolina. Pinson has held positions as Secretary and President of the Central Virginia Apartment Association (CVAA) and member of the Board of Directors for the Virginia Apartment Management Association (VAMA), Richmond Apartment Management Association and Chapter 38 of the Institute of Real Estate Management.
+    social_media:
+      - name: twitter
+        url: https://twitter.com/landmarkpropsrv
+        icon: fa-twitter
+  - name: Judy Olive
+    title: CFO and Founder
+    email: jolive@landmark-property.com
+    photo: olive.jpg
+    bio:
+      - Judy is one of three managing partners who founded Landmark in 2002.  Prior to Landmark, Judy served as Assistant Vice President for Thalhimer.  During her 16 year tenure, Judy was responsible for the Accounting and Technology needs of residential and commercial projects. She has significant experience in managing and producing financial statements for multifamily complexes, single-family dwellings and commercial shopping centers; along with managing the automation of multifamily sites, consisting of adding computer equipment, connectivity of that equipment with the internet based accounting system for processing of day to day operations.  Judy is a graduate of Virginia Commonwealth University with a B.S. in Accounting and has served on the advisory board for ECPI.  She is also a licensed Virginia Real Estate Broker.
+    social_media:
+      - name: twitter
+        url: https://twitter.com/landmarkpropsrv
+        icon: fa-twitter
+multifamily:
+  - name: Kathryn Hall
+    title: Senior Regional Manager
+    email: khall@landmark-property.com
+    photo: kathrynprofile.jpg
+    social_media:
+      - name: twitter
+        url: https://twitter.com/hall23_hall
+        icon: fa-twitter
+  - name: Jill Levins
+    title: Regional Manager
+    email: jlevins@landmark-property.com
+    photo: jillprofile.jpg
+    social_media:
+      - name: twitter
+        url: https://twitter.com/landmarkpropsrv
+        icon: fa-twitter
+  - name: Ashley Pitzer
+    title: Regional Manager
+    email: apitzer@landmark-property.com
+    photo: ashleyprofile.jpg
+    social_media:
+      - name: twitter
+        url: https://twitter.com/laddda13
+        icon: fa-twitter
+  - name: Lauren Curley
+    title: Marketing Director
+    email: lcurley@landmark-property.com
+    photo: laurenprofile.jpg
+    social_media:
+      - name: twitter
+        url: https://twitter.com/llcurley
+        icon: fa-twitter
+hoa:
+  - name: Debra Fifer
+    title: Director of Association Management
+    email: dfifer@landmark-property.com
+    phone: 804 673 1976
+    photo: debraprofile.jpg
+  - name: Melinda Thompson
+    title: Regional Property Manager
+    email: mthompson@landmark-property.com
+    phone: 804 282 2574
+    photo: melindaprofile.jpg
+  - name: Liz Dalton
+    title: Property Manager
+    email: edalton@landmark-property.com
+    phone: 804 553 2456
+    photo: lizprofile.jpg
+  - name: Nicole Garrett
+    title: Property Manager
+    email: ngarrett@landmark-property.com
+    photo: nicoleprofile.jpg
+  - name: Kelli Cox
+    title: Property Manager
+    email: kcox@landmark-property.com
+    photo: nophoto.jpg
+
+  - name: Berkley Whitener
+    title: Property Manager
+    email: bwhitener@landmark-property.com
+    phone: 804 553 2466
+    photo: nophoto.jpg
+
+  - name: Shari Schaefer
+    title: Internet Marketing Specialist
+    email: sschaefer@landmark-property.com
+    photo: shariprofile.jpg
+
+  - name: Paige Alcorn
+    title: Human Resources Manager
+    email: palcorn@landmark-property.com
+    photo: paigeprofile.jpg

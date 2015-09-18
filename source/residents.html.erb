@@ -1,0 +1,61 @@
+---
+title: 'Residents - Landmark Property Services, Inc.'
+description: 'Useful links for each of Landmark apartments and communities that allow residents to pay rent online and submit maintenance requests'
+keywords: 'apartments, rent payment, maintenance requests'
+---
+<link rel="stylesheet" href="/assets/plugins/sky-forms-pro/skyforms/css/sky-forms.css">
+
+<div class="breadcrumbs-v3" style="background: url(/assets/img/landmark/findyourapartment2.jpg) no-repeat; background-size: cover; background-position: center center; padding-bottom: 100px;">
+    <div class='container'>
+        <div class="sky-form">
+            <header>Welcome Home Residents</header>
+
+            <fieldset>
+                <section>
+                    <label class="select">
+                        <select id='property-links'>
+                            <option disabled selected>Select your community...</option>
+                            <% data.portfolio.properties.each do |property| %>
+                                <% property.links.each do |link| %>
+                                    <% if link.title == 'Visit Resident Portal' %>
+                                        <option value="<%= link.url %>"><%= property.name  %></option>
+                                    <% end %>
+                                <% end %>
+                            <% end %>
+                        </select>
+                        <i></i>
+                    </label>
+                </section>
+            </fieldset>
+        </div>
+    </div>
+</div>
+
+<div class="container content-sm">
+    <div class="row service-block-v6">
+        <div class="col-md-3 md-margin-bottom-50">
+            <i class="icon-custom rounded-x icon-color-u icon-line fa fa-comments-o"></i>
+            <div class="service-desc">
+                <h2>Give Us Feedback</h2>
+            </div>
+        </div>
+        <div class="col-md-3 md-margin-bottom-50">
+            <i class="icon-custom rounded-x icon-color-u icon-line fa fa-usd"></i>
+            <div class="service-desc">
+                <h2>Pay your rent online</h2>
+            </div>
+        </div>
+        <div class="col-md-3 md-margin-bottom-50">
+            <i class="icon-custom rounded-x icon-color-u icon-line fa fa-wrench"></i>
+            <div class="service-desc">
+                <h2>Submit maintenance requests</h2>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <i class="icon-custom rounded-x icon-color-u icon-line icon-users"></i>
+            <div class="service-desc">
+                <h2>Meet your neighbors</h2>
+            </div>
+        </div>
+    </div><!--/end row-->
+</div>

@@ -1,0 +1,70 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div id="map" class="map"></div>
+            <h2><span class="color-dark"><%= region.gsub(/-/, ' ').split.map(&:capitalize).join(' ') %> Properties</span></h2>
+        </div>
+        <div class="profile-body">
+            <% data.portfolio.properties.each do |property| %>
+                <% if property.region == region %>
+                    <div class="col-md-6">
+                        <div class="easy-block-v1">
+                            <img class="img-responsive" src="/assets/img/landmark/portfolio/<%= property.img %>" alt="">
+                            <div class="easy-block-v1-badge rgba-red"><%= property.neighborhood %></div>
+                        </div>
+                        <div class="projects">
+                            <h2>
+                                <% property.links.each do |link| %>
+                                    <% if link.title == "Learn More" %>
+                                        <a class="color-dark" href="<%= link.url %>" target="_blank"><%= property.name %></a>
+                                    <% end %>
+                                <% end %>
+                            </h2>
+
+                            <p><span class="color-green"><%= property.address %></span></p>
+                            <div class="row">
+                                <div class='col-xs-9'>
+                                    <h4>Bedrooms: <%= property.bedrooms %></h4>
+                                </div>
+                                <div class='col-xs-3'>
+                                    <% if property.petfriendly == true %>
+                                        <i class='fa fa-paw fa-2x'></i>
+                                    <% end %>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <% end %>
+            <% end %>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+var map;
+            $(document).ready(function(){
+                map = new GMaps({
+                    div: '#map',
+                    height: '370px',
+                    <% data.portfolio.regions.each do |geo_region| %>
+                        <% if geo_region.name == region %>
+                            zoom : <%= "#{geo_region.zoom.to_i}" %>,
+                            lat : <%= "'#{geo_region.lat}'" %>,
+                            lng : <%= "'#{geo_region.lng}'" %>
+                        <% end %>
+                    <% end %>     
+                });
+
+                <% data.portfolio.properties.each_with_index do |property, index| %>
+                    <% if property.region == region %>
+                        var marker<%= index %> = map.addMarker(
+                            {
+                                'title' : <%= "'#{property.name}'" %>,
+                                'lat' : <%= "'#{property.lat}'" %>,
+                                'lng' : <%= "'#{property.lng}'" %>
+                            }
+                        );
+                    <% end %>
+                <% end %>
+            });
+</script>
