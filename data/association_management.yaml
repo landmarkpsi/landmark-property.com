@@ -1,0 +1,60 @@
+header: Association Management Services
+lead:
+  text:
+  - Landmark Property Services, Inc. specializes in the management of Condominium and Homeowner Associations. We strive to provide all customers with an unparalleled experience and solid value. As a full service management company we are involved in every step of the management process. We understand that each community is unique based on age, size, location, total membership, amenities, funding, reserves, assets, governing documents and long and short term goals.  As such, we are committed to providing you with customized solutions for your association management needs. If you are interested in learning more about our services, you can request a management proposal below.
+body:
+  - header: Financial
+    icon: fa fa-usd
+    text:
+    - Landmark Property Services, Inc. is dedicated to providing timely and accurate financial services to your Association. Our staff members do more than just prepare your statements, they are participants in the financial operations of your community and available to assist when needed.
+    list:
+    - Balance sheet with current month and prior month actual
+    - Income and expense statement with month and year-to-date actual to budget
+    - Receipts statement with beginning balance, current payment, and ending balance due (if applicable)
+    - Disbursement statement with check payment date and number along with copies of actual invoices
+    - Delinquent report with detailed listing of delinquencies by homeowner
+
+  - header: Administrative
+    icon: fa fa-laptop
+    text:
+    list:
+    - Maintain complete and accurate records of homeowners
+    - Reception and proper handling of all incoming calls
+    - Organize and notify residents of all meetings of the membership
+    - Organize and assist with regularly scheduled Board meetings
+    - Work with Board to prepare a realistic and balanced budget
+    - Process billing statements and payment coupons
+    - Adherence to approved collection policy for delinquent homeowners
+    - Track vendor insurance coverage and licenses
+    - Work with Board approved auditor in preparation of taxes and audits
+    - Provide IRS 1099 forms for independent contractors
+    - Provide resale disclosure information upon request 
+
+  - header: Property Services
+    icon: fa fa-home
+    text:
+    list:
+    - Assist Board in selecting vendors for landscaping, pool service, janitorial, irrigation, refuse pick up and other such vendors
+    - Administer the provisions of general maintenance contracts
+    - Drive by inspections of community every 7-10 days and forward observations to the board liaison
+    - Regular property inspections
+    - Respond as soon as possible to requests for maintenance in accordance with approved policies
+    - "Send violation letters for non-compliance with CC&R's by individual homeowners"
+
+  - header: Education and Consulting Services
+    icon: fa fa-graduation-cap 
+    text:
+    list:
+    - Provide guidance and assistance to the Board on HOA matters
+    - Provide committee recommendations and considerations
+    - Assist Board in review of governing documents
+    - Provide legal counsel and advice to association upon request
+    - Provide auditors and advice to association upon request
+
+  - header: Online Payment Options
+    icon: fa fa-credit-card 
+    text:
+    list:
+    - Credit Card (online or in office)
+    - E-Check
+    - Auto Debit (for recurring payments) 

@@ -1,0 +1,51 @@
+---
+title: 'Association Management - Landmark Property Services, Inc.'
+description: ''
+keywords: ''
+---
+<div class="breadcrumbs-v3" style="background: url(/assets/img/landmark/hoaservices.jpg) center center;">
+    <div class='container'>
+        <div class="text-center">
+            <h1><%= data.association_management.header %></h1>
+            <a href="/request-hoa-management-proposal" class="btn-u btn-u-lg">Request Management Proposal</a>
+        </div>
+    </div>
+</div>
+
+<div class="container content-sm">
+    <div class="col-md-12 margin-bottom-30">
+        <% data.association_management.lead.text.each do |para| %>
+            <p><%= para %></p>
+        <% end %>
+    </div>
+    <% data.association_management.body.each_slice(2) do |slice| %>
+        <div class="row">
+            <% slice.each do |body| %>
+                <div class="col-md-6">
+                    <div class="content-boxes-v4 content-boxes-v4-sm">
+                        <div class="md-margin-bottom-40">
+                            <i class="pull-left <%= body.icon %>"></i>
+                            <div class="content-boxes-in-v4">
+                                <h4><%= body.header %></h4>
+                                <% if body.text %>
+                                    <% body.text.each do |para| %>
+                                        <p><%= para %></p>
+                                    <% end %>
+                                <% end %>
+
+                                <% if body.list %>
+                                    <ul>
+                                        <% body.list.each do |li| %>
+                                            <li><%= li %></li>
+                                        <% end %>
+                                    </ul>
+                                <% end %>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            <% end %>
+        </div>
+    <% end %>
+</div>

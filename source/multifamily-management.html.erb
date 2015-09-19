@@ -7,16 +7,17 @@ keywords: 'awards, RAMMY, management proposal, multifamily, apartments, rent'
     <div class='container'>
         <div class="text-center">
             <h1><%= data.multifamily_management.header %></h1>
+            <a href="/request-multifamily-management-proposal" class="btn-u btn-u-lg">Request Management Proposal</a>
+
         </div>
     </div>
 </div>
 
 <div class="container content-sm">
-    <div class="col-md-6 margin-bottom-30">
+    <div class="col-md-6">
         <% data.multifamily_management.lead.text.each do |para| %>
             <p><%= para %></p>
         <% end %>
-        <a href="/request-management-proposal" class="btn-u">Request Management Proposal</a>
     </div>
     <div class="col-md-6">
         <% data.multifamily_management.body.each do |body| %>
