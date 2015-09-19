@@ -5,9 +5,6 @@ stats:
   - number: 3500
     icon: fa fa-home
     category: HOA &amp; Condos
-  - number: 93
-    icon: icon-calculator
-    category: Average Percent Occupancy
   - number: 11
     icon: fa fa-trophy
     category: Awards
