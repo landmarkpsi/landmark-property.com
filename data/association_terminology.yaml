@@ -1,0 +1,126 @@
+categories:
+  - title: Personnel &amp; Board
+    types: 
+    - name: Association Manager
+      description:
+      - Advise and provide administrative, managerial, and operational counsel to the association governing body
+      - Exhibit professionalism and loyalty to the principal (the Board)
+      - Exercise diligence in performing duties on behalf of the principals
+      - Account for financial activities covered by the Management Agreement
+      - Perform onsite property inspections
+      - Solicit and evaluate bids for association services
+      - Supervise maintenance activities and contractor performance
+      - Oversee and authorize payment for primary association services
+      - Know and abide Bylaws, recognizing the State agency that supervises the community associations
+    - name: President (Board of Directors)
+      description: 
+      - Chief executive officer and leader of the association
+      - Presides at all meetings of the board and membership
+      - Executes legal documents on behalf of the association
+      - Sets meeting agendas and controls all meetings
+      - Represents the board before the residents
+      - May have nominating, if not appointment, responsibility for all committees
+    - name: Vice President (Board of Directors)
+      description: 
+      - Performs all of the duties of the president in his/her absence
+      - Typically shares some of the burden of the president regarding appearances, liaison, public hearings, etc.
+      - Usually assigned liaison responsibility to specific staff or contractors, and to specific committees
+    - name: Secretary (Board of Directors)
+      description:
+      - Prepares and distributes board and membership meeting agendas, minutes, and materials referred to in minutes
+      - Maintains minutes and book on all meetings
+      - Maintains book of resolutions
+      - Maintains all official records, including official correspondence, contracts, membership roster, etc.
+      - Receives, verifies, and maintains all proxies
+      - Attests, by signature, to the legitimacy of certain documents
+    - name: Treasurer (Board of Directors)
+      description:
+      - Works with appropriate staff, contractors, and committees to develop and submit annual operating budget for approval
+      - Maintains adequate records of all association financial transactions
+      - Maintains roster of disbursement of funds, as authorized
+      - Prepares period financial reports
+      - Arranges, subject to board approval, an independent audit of financial affairs
+
+  - title: Board, Homeowner and Manager Perspective
+    types: 
+    - name: Board of Directors Perspective
+      description:
+      - Maintaining the value of the property and a good quality of life for the residential community
+      - Governing smoothly
+      - Enforces rules
+      - Establishing and keeping budget
+    - name: Homeowners Perspective
+      description:
+      - Most care a great deal about residences
+      - Will want service from manager and decisions from Board that will provide a good quality of life
+      - Problems may arise when expectations are too high or not realistic; this can occur when interests are too specialized or unique
+    - name: Managers Perspective
+      description:
+      - Working in balance with homeowners, board, and management company
+      - Problem-solver
+      - Multi-task oriented
+
+  - title: Governing Documents and Accounting
+    introduction: "The documents that regulate community life. Documents may vary depending on type of Association (condo, townhome, etc.), State law, Declaration of Covenants or Master Deed, Conditions and Restrictions, Bylaws, Rules and Regulations, and Plats of Survey and Easement Agreements (may be separate, often included in the declaration)"
+    types: 
+    - name: Basic Condominium/Townhome Legal Documents
+      terms:
+        - name: State Enabling Statute
+          description: "Permits the creation of condominium/townhome form of ownership and prescribes the basis of determining ownership interest, rights and obligations of the owners, duties and powers of the association, and the process of dissolution of the condominium"
+        - name: Subdivision of Condomimium/Townhome Plat
+          description: "Describes the location and nature of the common elements and the units"
+        - name: Condominium Declaration or Master Deed
+          description: "Defines the units, common and limited common elements, and is the collection of covenants imposed on the property to provide for the basis for allocation of percentage ownership interest, the obligation of each owner to share in funding the cost of association operations, the power, authority, and responsibility of the association in its operations and in making and enforcing rules"
+        - name: Individual Unit Deeds
+          description: Comprises the individual unit deed
+        - name: Articles of Incorporation
+          description: "Creates the association as a corporation under state corporate statute and defines its membership and sets forth the process for creating the board of directors, voting procedures, etc."
+        - name: Bylaws
+          description: "Implements, in specific detail, the provisions of the Declaration and the Articles of Incorporation regarding the association operations, including delineation of the meeting process, election procedures, powers and duties, board meetings, committees, insurance requirements, rule-making and enforcement process"
+        - name: Rules and Regulations
+          description: "Sets forth the operational powers or provisions and the use restrictions adopted by the association"
+
+    - name: Hierarchical Legal Documents for Homeowner Associations
+      terms:
+        - name: Subdivision Plat
+          description: "Describes the location and nature of the common property and the individual lots"
+        - name: Property Deeds
+          description: "Comprise the individual lot deeds and the deeds to common property which give a legal description of the property"
+        - name: The Declaration of Covenants, Conditions, and Restrictions
+          description: "The declaration of CC&R's is the collection of covenants imposed on all property within the development and provides or automatic association membership of all owners and the basis for voting rights, the obligation of each owner to share in funding the cost of association operations, certain restrictions (architectural control and other rules) on the use of the property and the association's enforcement powers and sets forth the power and authority of the association to own and maintain the common property and to make and enforce rules"
+        - name: Articles of Incorporation
+          description: "Creates the association as a legal entity under state corporate statute; defines the board powers and responsibilities of the association and its membership; and, sets forth the process for creating the board of directors, voting system, etc."
+        - name: Bylaws
+          description: "Implements, in specific detail, the provisions of the CC&R's and the Articles of Incorporation regarding the association operations, including delineation of the meeting process, election procedures, powers and duties, board meetings, committees, insurance requirements, rule-making and enforcement process"
+        - name: Rules and Regulations
+          description: Sets forth the operational powers or provisions and the use restrictions adopted by the association
+    - name: Applicable Civil Rights Laws
+      description:
+      - Prohibition against racial discrimination as stated by the Civil Rights Act of 1866
+      - Equal Credit Opportunity
+      - "Fair Housing Amendments Acts, 1988, applies to sale of residence and does not prohibit discrimination by owners, if selling or renting as long as they own 3 or less homes"
+      - Board is prohibited from discrimination in exercising its 1st right of refusal
+      - Association must abide by laws prohibiting discrimination against families with kids
+      - "Persons with disabilities (at own expense) must be allowed to make accommodations per the Americans with Disabilities Act, 1993"
+    - name: Accounting Basics
+      terms:
+        - name: Cash Method of Account
+          description: "Income and expenses are only recorded when cash changes hands. Financial reports only reflect cash transactions. This is a relatively simple system for simple situations. Because all obligations are not recorded until cash changes hands, this method does not provide an accurate portrayal of the financial condition of the association at any given time."
+        - name: Accrual Method of Accounting
+          description: "Keeps track of all financial activities, including revenue as it is earned (as opposed to when it is received) and expenses as the obligation is incurred (as opposed to when it is paid). This makes possible a more accurate determination of the financial condition of the association at any point in time. Also, this is a better method for multi-year tracking of capital reserves credits and deficiencies. The primary disadvantage is the greater complexity and technical knowledge that is needed to maintain the records, understand the reports, etc."
+        - name: Capital Reserves
+          description: "The Board has the obligation to repair and replace major capital facilities, buildings, and equipment of the association. The ideal method of providing for these future expenses is the establishment of a capital reserves system and budget to assure that such funds are available when needed. With knowledge that the future holds predictable major expenditures for repair and replacement of facilities and equipment, the association could begin the gradual accumulation of funds through a reserve account to meet all or a portion of that expense when it comes due."
+
+
+
+
+
+
+
+
+
+
+
+
+
+

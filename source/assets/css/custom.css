@@ -2,6 +2,13 @@
 @import url(theme-colors/landmark-green.css);
 @import url(footers/footer-v2.css);
 
+.anchor:before {
+  display: block;
+  content: "";
+  height: 75px;
+  margin: -75px 0 0;
+}
+
 .re-title-v3 {
   color: #fff;
   font-size: 40px;
@@ -38,7 +45,6 @@
 /* profile.html */
 .parallax-bg {
   position: relative;
-  background: url(../img/landmark/aboutusoldbridge.jpg) 50% no-repeat fixed;
 }
 
 .parallax-bg:before {

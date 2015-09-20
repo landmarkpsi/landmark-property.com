@@ -1,0 +1,53 @@
+---
+title: 'Association Terminology - Landmark Property Services, Inc.'
+description: ''
+keywords: ''
+---
+<div class="parallax-bg" style="background: url(/assets/img/landmark/hoaterms.jpg);">
+    <div class='container content parallax-about'>
+        <div class="title-box-v2">
+            <h2>Association Terminology</h2>
+        </div>
+        <div class="row job-content">
+            <% data.association_terminology.categories.each do |category| %>
+                <div class="col-md-4 col-sm-4 md-margin-bottom-40">
+                    <h3 class="heading-md" style="min-height: 2em;"><strong><span class="color-green"><%= category.title %></span></strong></h3>
+                    <% category.types.each do |type| %>
+                        <ul class="list-unstyled categories">
+                            <li><a href="#<%= type.name %>"><%= type.name %></a></li>
+                        </ul>
+                    <% end %>       
+                </div>
+            <% end %>
+        </div>
+    </div>
+</div>
+
+<div class="container content">
+    <% data.association_terminology.categories.each do |category| %>
+        <div class="title-box-v2">
+            <h2><%= category.title %></h2>
+            <% if category.introduction %>
+                <p><%= category.introduction %></p>
+            <% end %>
+        </div>
+        <% category.types.each do |type| %>
+            <h3 id="<%= type.name %>" class="anchor"><span class="color-green"><%= type.name %></span></h3>
+            <% if type.description %>
+                <ul>
+                    <% type.description.each do |desc| %>
+                        <li><%= desc %></li>
+                    <% end %>
+                </ul>
+            <% end %>
+            <% if type.terms %>
+                <ul>
+                    <% type.terms.each do |term| %>
+                        <li><strong><%= term.name %></strong>: <%= term.description %></li>
+                    <% end %>
+                </ul>
+            <% end %>
+        <% end %>
+        <hr>
+    <% end %>
+</div>
