@@ -66,10 +66,6 @@
 }
 
 /* meet-our-team.html */
-.parallax-team {
-  background: url(../img/landmark/team-background.jpg) 50% 0 repeat fixed;  
-}
-
 .header-v6 .navbar-brand {
   line-height: 20px;
 }
