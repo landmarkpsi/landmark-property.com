@@ -1,0 +1,27 @@
+---
+title: Association Owner Services
+description: ''
+keywords: ''
+---
+
+<div class="breadcrumbs-v3" style="background: url(/assets/img/landmark/hoaservicesowner.jpg) no-repeat; background-size: cover; background-position: center center; padding-bottom: 100px;">
+    <div class='container'>
+        <div class="sky-form">
+            <header>Our Services</header>
+
+            <fieldset>
+                <section>
+                    <label class="select">
+                        <select id='property-links'>
+                            <option disabled selected>I want to...</option>
+                            <% data.association_owner_services.links.each do |link| %>
+                                <option value="<%= link.url %>"><%= link.title  %></option>
+                            <% end %>
+                        </select>
+                        <i></i>
+                    </label>
+                </section>
+            </fieldset>
+        </div>
+    </div>
+</div>
