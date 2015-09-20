@@ -1,0 +1,59 @@
+---
+title: 'Association FAQ - Landmark Property Services, Inc.'
+description: ''
+keywords: ''
+---
+<div class="breadcrumbs-v3" style="background: url(/assets/img/landmark/hoafaq.jpg) center 40%;">
+    <div class='container'>
+        <div class="text-center">
+            <h1>Association Management</h1>
+            <h1>Frequently Asked Questions</h1>
+        </div>
+    </div>
+</div>
+<div class="container content">
+    <div class="row">
+        <div class="col-md-9">
+            <div class="headline"><h2>Association Managment Questions</h2></div>
+            <div class="panel-group acc-v1 margin-bottom-40" id="accordion">
+                <% data.association_faq.faqs.each_with_index do |faq, index| %>
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#<%= index + 1 %>">
+                                    <%= index + 1 %>. <%= faq.question %>
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="<%= index + 1 %>" class="panel-collapse collapse <%= index == 0 ? 'in' : '' %>">
+                            <div class="panel-body">
+                                <%= faq.answer %>
+                            </div>
+                        </div>
+                    </div>
+                <% end %>
+            </div><!--/acc-v1-->
+        </div><!--/col-md-9-->
+
+        <div class="col-md-3">
+            <!-- Contacts -->
+            <div class="headline"><h2>Address</h2></div>
+            <ul class="list-unstyled who margin-bottom-30">
+                <li><i class="fa fa-home"></i>4901 Dickens Road, Richmond, VA</a></li>
+                <li><i class="fa fa-envelope"></i> <a href="mailto:info@landmark-property.com">info@landmark-property.com</a></li>
+                <li><i class="fa fa-phone"></i>804 673 0900</li>
+                <li><i class="fa fa-fax"></i>804 673 0963</li>
+            </ul>
+            <!-- End Contacts -->
+
+            <!-- Business Hours -->
+            <div class="headline"><h2>Business Hours</h2></div>
+            <ul class="list-unstyled margin-bottom-30">
+                <li><strong>Monday-Friday:</strong> 9am to 5pm</li>
+                <li><strong>Saturday:</strong> Closed</li>
+                <li><strong>Sunday:</strong> Closed</li>
+            </ul>
+            <!-- End Business Hours -->
+        </div><!--/col-md-3-->
+    </div><!--/row-->
+</div><!--/container-->
