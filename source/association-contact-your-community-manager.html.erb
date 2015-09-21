@@ -1,0 +1,38 @@
+---
+title: 'Association Contact Your Community Manager - Landmark Property Services, Inc.'
+description: ''
+keywords: ''
+---
+<div class="breadcrumbs-v3" style="background: url(/assets/img/landmark/hoacontactpm.jpg) center 40%;">
+    <div class='container'>
+        <div class="text-center">
+            <h1>Contact Your Community Manager</h1>
+        </div>
+    </div>
+</div>
+<div class="container content">
+    <% data.association_contact_your_community_manager.communities.each_slice(4) do |group| %>
+        <div class='row'>
+            <% group.each do |community| %>
+                <div class='col-md-3 col-sm-6 col-xs-12'>
+                    <h2 class="heading-sm" style="min-height: 3em;"><%= community.name %></h2>
+                    <% community.managers.each do |manager| %>
+                        <% information = data.association_contact_your_community_manager.managers.select {|person| person['name'] == manager }.first %>
+                        <address>
+                            <strong><%= information['name'] %></strong>
+                            <ul class="list-unstyled">
+                                <li><i class="fa fa-envelope"></i> <a href="mailto:<%= information['email'] %>"><%= information['email'] %></a></li>
+                                <li><i class="fa fa-phone"></i> <%= information['phone'] %></li>
+                                <li><i class="fa fa-fax"></i> <%= information['fax'] %></li>
+                            </ul>
+                        </address>
+                    <% end %>
+                    <% if community.url %>
+                        <a href="<%= community.url %>" class="btn-u">Association Website</a>
+                    <% end %>
+                </div>
+            <% end %>
+        </div>
+        <hr>
+    <% end %>
+</div><!--/container-->

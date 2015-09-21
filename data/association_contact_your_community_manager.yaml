@@ -1,0 +1,157 @@
+communities:
+  - name: "Avington Homeowners Association, Inc."
+    managers:
+      - Kellie Cox
+  - name: "Anchor Point Community Association"
+    managers:
+      - Berkeley Whitener
+  - name: "Battlefield Commons Townhouse Association, Inc."
+    managers:
+      - Nicole Garrett
+  - name: "Bay Cove Homeowners’ Association"
+    managers:
+      - Melinda Thompson
+  - name: "Bentley Homeowners Association"
+    managers:
+      - Kellie Cox
+  - name: "Berkeley Pointe Townhouse Association"
+    managers:
+      - Melinda Thompson
+  - name: "Chester Village Green Property Owners' Association"
+    managers:
+      - Berkeley Whitener
+  - name: "Colonies at Wilde Lake"
+    managers:
+      - Melinda Thompson
+  - name: "Crenshaw Condominium Owners' Association"
+    managers:
+      - Berkeley Whitener
+  - name: "Townes at Eagle Cove Homeowners' Association"
+    managers:
+      - Berkeley Whitener
+  - name: "Fan Square Condominium Owners' Association"
+    managers:
+      - Kellie Cox
+  - name: "Foxcroft Homeowners Association"
+    url: "https://www.associationvoice.com/member/signin_secure.asp?action=redirect&assn_id=10385"
+    managers:
+      - Elizibith Dalton
+  - name: "Foxfire Raintree Homeowners Association"
+    url: "http://www.foxfirehoa-raintree.com/"
+    managers:
+      - Elizibith Dalton
+  - name: "Foxfire Community Association"
+    url: "http://www.foxfirehoa.com/"
+    managers:
+      - Elizibith Dalton
+  - name: "Ginter Place Condominium Association"
+    url: "http://www.ginterplacecondo.com/"
+    managers:
+      - Debra Fifer
+      - Berkeley Whitener
+  - name: "Glenside Woods Townhouse Association, Inc."
+    managers:
+      - Nicole Garrett
+  - name: "Greystone Condominium Association"
+    managers:
+      - Melinda Thompson
+  - name: "Holly Glen Unit Owners Association, Inc."
+    managers:
+      - Nicole Garrett
+  - name: "Lakeridge Green, Inc."
+    managers:
+      - Nicole Garrett
+  - name: "Manor at Hunton Park Homeowners Association"
+    managers:
+      - Elizibith Dalton
+  - name: "Monument Terrace Association"
+    managers:
+      - Berkeley Whitener
+  - name: "Mooreland Landing Property Owners Association"
+    managers:
+      - Kellie Cox
+  - name: "Mount Vernon Condominium Association"
+    managers:
+      - Melinda Thompson
+  - name: "Rockwood Terrace Homeowners Association, Inc."
+    managers:
+      - Elizibith Dalton
+  - name: "Rolling Hill at Battlefield Green Community Association, Inc."
+    managers:
+      - Nicole Garrett
+  - name: "Skipwith Green Association"
+    managers:
+      - Kellie Cox
+  - name: "St. Patrick's Place Condominium"
+    managers:
+      - Berkeley Whitener
+  - name: "Sterling Row Condominium Association"
+    managers:
+      - Berkeley Whitener
+  - name: "Sturbridge Village Townhouse Association"
+    managers:
+      - Kellie Cox
+  - name: "Sussex Wood Townhouse Association"
+    managers:
+      - Berkeley Whitener
+  - name: "The Townes of Stratford Hills Homeowners Association, Inc."
+    managers:
+      - Berkeley Whitener
+  - name: "Tuckahoe Association"
+    managers: 
+      - Debra Fifer
+  - name: "Tuscan Villas Condominium Association"
+    managers:
+      - Melinda Thompson
+  - name: "Villages at the Crossing Townhouse Association, Inc."
+    managers:
+      - Melinda Thompson
+  - name: "The Warsaw Condominiums"
+    managers:
+      - Debra Fifer
+  - name: "Waterford Rhye Townhouse Association"
+    managers:
+      - Melinda Thompson
+  - name: "Waterside Townhouses at Anchor Point"
+    managers:
+      - Berkeley Whitener
+  - name: "Westover Pines Townhouse Homeowners Association, Inc."
+    managers:
+      - Berkeley Whitener
+  - name: "Wilde Lake Association"
+    url: "http://www.wilde-lake.org/"
+    managers:
+      - Debra Fifer
+  - name: "Willow Run Townhouse Association, Inc."
+    url: "http://www.willowrun-hoa.com/"
+    managers:
+      - Nicole Garrett
+  - name: "Windsor on the James Homeowners Association"
+    managers:
+      - Kellie Cox
+
+managers:
+  - name: Kellie Cox
+    phone: 804.673.1981
+    fax: 804.673.0963
+    email: kcox@landmark-property.com
+  - name: Elizibith Dalton
+    phone: 804.553.2456
+    fax: 804.282.2607
+    email: edalton@landmark-property.com
+  - name: Debra Fifer
+    phone: 804.673.1976
+    fax: 804.553.2461
+    email: dfifer@landmark-property.com
+  - name: Nicole Garrett
+    phone: 804.673.1933
+    fax: 804.553.2467
+    email: ngarrett@landmark-property.com
+  - name: Melinda Thompson
+    phone: 804.282.2574
+    fax: 804.212.3870
+    email: mthompson@landmark-property.com
+  - name: Berkeley Whitener
+    phone: 804.553.2466
+    fax: 804.282.1127
+    email: bwhitener@landmark-property.com
