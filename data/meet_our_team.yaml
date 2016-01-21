@@ -46,23 +46,15 @@ multifamily:
       - name: twitter
         url: https://twitter.com/landmarkpropsrv
         icon: fa-twitter
-  - name: Ashley Pitzer
+  - name: Ashley Bowman
     title: Regional Manager
-    email: apitzer@landmark-property.com
+    email: abowman@landmark-property.com
     photo: ashleyprofile.jpg
     social_media:
       - name: twitter
         url: https://twitter.com/laddda13
         icon: fa-twitter
-  - name: Lauren Curley
-    title: Marketing Director
-    email: lcurley@landmark-property.com
-    photo: laurenprofile.jpg
-    social_media:
-      - name: twitter
-        url: https://twitter.com/llcurley
-        icon: fa-twitter
-hoa:
+ hoa:
   - name: Debra Fifer
     title: Director of Association Management
     email: dfifer@landmark-property.com
@@ -91,7 +83,7 @@ hoa:
     title: Property Manager
     email: bwhitener@landmark-property.com
     phone: 804 553 2466
-    photo: nophoto.jpg
+    photo: berkwhitener.jpg
 
   - name: Shari Schaefer
     title: Internet Marketing Specialist
