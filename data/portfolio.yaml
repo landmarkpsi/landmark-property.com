@@ -819,6 +819,36 @@ properties:
       - title: Visit Resident Portal
         url: 'http://tanglewood.activebuilding.com/'
 
+- name: Virginia Beach Community Development Corporation (VBCDC)
+    city: 'Virginia Beach, VA'
+    img: nophoto.jpg
+    address: 904 Broad Meadows Blvd Ste 250, Virginia Beach, VA 23462
+    lat: 36.867680
+    lng: -76.161144
+    region: hampton-roads
+    neighborhood: Virginia Beach
+    bedrooms: 1, 2, 3, 4 &amp; 5
+    petfriendly: true
+    descriptions:
+      - The Virginia Beach Community Development Corporation (VBCDC)’s mission is to assist the city of Virginia Beach through partnerships with public and private sectors to provide quality affordable housing opportunities to low and moderate income families and individuals.  VBCDC has partnered with Landmark Property Services, Inc. to lease and manage its communities and affordable housing programs.  We understand the importance of housing as a foundation for life.  Our network of affordable housing has expanded to over 400 units across Virginia Beach including larger apartment communities, condos, townhomes and single family homes.  We participate in a number of different affordable housing programs.  Some programs offer Section 8 rental assistance.  When you contact our leasing office, we will review the programs and communities which meet your needs and qualifications.  We offer affordable rental housing in a variety of different neighborhoods within the city of Virginia Beach including Lake Edward, Green Run, Northridge, Princess Anne Plaza, Indian Lakes, Campus East and Rosemont Forest.  
+    links:
+      - title: Learn More
+        url: 'http://www.vbcdc-online.com'
+      - title: View Floor Plans
+        url: 'http://www.vbcdc-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.vbcdc-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.vbcdc-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.vbcdc-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.vbcdc-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://vbcdc.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://vbcdc.activebuilding.com/'
+        
   - name: Willow Oaks
     city: 'Richmond, VA'
     img: willowoaks.jpg
