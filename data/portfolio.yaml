@@ -877,7 +877,37 @@ properties:
       - title: Pay My Rent Online
         url: 'http://willowoaks.activebuilding.com/'
       - title: Visit Resident Portal
-        url: 'http://willowoaks.activebuilding.com/'                                
+        url: 'http://willowoaks.activebuilding.com/'             
+        
+- name: The Wilton Companies Apartments
+    city: 'Richmond, VA'
+    img: nophoto.jpg
+    address: 9010 Patterson Ave, Richmond, VA 23229
+    lat: 37.595878
+    lng: -77.577126
+    region: richmond
+    neighborhood: Richmond
+    bedrooms: 1, 2 &amp; 3
+    petfriendly: true 
+    descriptions:
+      - Why waste time driving from community to community when you can visit 16 different locations in one stop?  The Wilton Companies always offers the best of every budget with apartments and townhomes for every style.  Located in Richmond’s prestigious West End, you’ll always enjoy the city’s best shopping, dining and schools.  Start your morning with a donut and artisanal coffee at Sugar Shack.  Travel to Greece and back with lunch at nearby Stella’s or enjoy a taste of home with dinner in your own gourmet kitchen.  From classic Richmond design to modern and renovated, the Wilton Companies truly offers your one-stop-shop to the best apartments in Richmond’s West End.
+    links:
+      - title: Learn More
+        url: 'http://www.stratfordbethany-online.com'
+      - title: View Floor Plans
+        url: 'http://www.stratfordbethany-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.stratfordbethany-online.com/Gallery.aspx'
+      - title: Schedule Aour
+        url: 'http://www.stratfordbethany-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.stratfordbethany-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.stratfordbethany-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://stratfordhills.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://stratfordhills.activebuilding.com/'
 regions:
   - name: charlottesville
     lat: 38.0433686
