@@ -819,7 +819,7 @@ properties:
       - title: Visit Resident Portal
         url: 'http://tanglewood.activebuilding.com/'
 
-- name: Virginia Beach Community Development Corporation (VBCDC)
+  - name: Virginia Beach Community Development Corporation (VBCDC)
     city: 'Virginia Beach, VA'
     img: nophoto.jpg
     address: 904 Broad Meadows Blvd Ste 250, Virginia Beach, VA 23462
@@ -879,7 +879,7 @@ properties:
       - title: Visit Resident Portal
         url: 'http://willowoaks.activebuilding.com/'             
         
-- name: The Wilton Companies Apartments
+  - name: The Wilton Companies Apartments
     city: 'Richmond, VA'
     img: nophoto.jpg
     address: 9010 Patterson Ave, Richmond, VA 23229
