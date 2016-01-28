@@ -182,7 +182,38 @@ properties:
       - title: Visit Resident Portal
         url: 'http://colonialheights.activebuilding.com/'
 
-  - name: Creekpointe Apartments
+   - name: Colonial Point Apartments
+    city: 'Gloucester Point, VA'
+    img: nophoto.jpg
+    address: 7698 Colonial Point Lane, Gloucester Point, VA 23062
+    lng: -76.493823
+    lat: 37.261196
+    region: .williamsburg
+    neighborhood: Williamsburg
+    bedrooms: 2
+    petfriendly: true
+    descriptions:
+      - Colonial Point is a welcoming community offering a great residential environment, spacious living and excellent service for our residents. We offer two bedroom apartments that are open and inviting; sure to please even those with the most discriminating tastes. Whether you want to relax in the courtyard or take in the history of your neighborhood- Colonial Point has something for you! We are close to shopping, dining, and Virginia history with Colonial Williamsburg, Yorktown, and Jamestown nearby.
+      - Come take a tour of our beautiful community and learn more about our apartments today!
+    links:
+      - title: Learn More
+        url: 'http://www.colonialpoint-online.com'
+      - title: View Floor Plans
+        url: 'http://www.colonialpoint-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.colonialpoint-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.colonialpoint-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.colonialpoint-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.colonialpoint-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://colonialpoint.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://colonialpoint.activebuilding.com/'
+        
+- name: Creekpointe Apartments
     city: 'Midlothian, VA'
     img: creekpointe.jpg
     address: 14600 Creekpointe Circle, Midlothian, VA  23114
