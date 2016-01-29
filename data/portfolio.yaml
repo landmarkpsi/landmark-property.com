@@ -243,37 +243,6 @@ properties:
       - title: Visit Resident Portal
         url: 'http://creekpointe.activebuilding.com/'
 
-  - name: Gerwyn Manor
-    city: 'Sandston, VA'
-    img: gerwynmanor.jpg
-    address: 5194 Gerwyn Circle, Sandston, VA  23150
-    lat: 37.5158491
-    lng: -77.3434924
-    region: richmond
-    neighborhood: Sandston  
-    bedrooms: 2
-    petfriendly: true
-    descriptions:
-      - Located in the convenient and affordable East End/Sandston neighborhood of Richmond, VA, Gerwyn Manor apartments offers spacious 2BR townhomes that give you enormous value per square foot. Perhaps even more important than the walls and windows that make up your apartment at Gerwyn Manor is the close proximity to the places and things that are important to you. Our townhomes are just minutes from all of the great shopping and dining White Oak Mall has to offer and most of the area's largest employers including Richmond International Airport, the U.S. Post Office on Technology Boulevard and the Byrd Center Industrial Area.
-      - Welcome home to Gerwyn Manor Apartments, where we believe you don't have to pay a lot to get exactly what you want.
-    links:
-      - title: Learn More
-        url: 'http://www.gerwynmanor-online.com'
-      - title: View Floor Plans
-        url: 'http://www.gerwynmanor-online.com/Floor-plans.aspx'
-      - title: View Photos
-        url: 'http://www.gerwynmanor-online.com/Gallery.aspx'
-      - title: Schedule A Tour
-        url: 'http://www.gerwynmanor-online.com/Contact.aspx'
-      - title: Apply Online
-        url: 'http://www.gerwynmanor-online.com/Floor-plans.aspx'
-      - title: Contact My Property Manager
-        url: 'http://www.gerwynmanor-online.com/Contact.aspx'
-      - title: Pay My Rent Online
-        url: 'http://gerwynmanor.activebuilding.com/'
-      - title: Visit Resident Portal
-        url: 'http://gerwynmanor.activebuilding.com/'
-
   - name: The Glenns at Millers Lane
     city: 'Richmond, VA'
     img: glenns.jpg
@@ -333,37 +302,6 @@ properties:
         url: 'http://hamptonsapts.activebuilding.com/'
       - title: Visit Resident Portal
         url: 'http://hamptonsapts.activebuilding.com/'
-
-  - name: Heritage Pointe and Remuda Crossing
-    city: 'Chesterfield, VA'
-    img: heritagepointe.jpg
-    address: 2796 Goolsby Avenue, Chesterfield, VA  23234
-    lat: 37.4518348
-    lng: -77.4446538
-    region: richmond
-    neighborhood: Chesterfield
-    bedrooms: 2
-    petfriendly: true
-    descriptions:
-      - At Heritage Pointe and Remuda Crossing Apartments, we understand that an apartment is more than just a rental home. It's a place where you can connect, recharge and relax. Our convenient North Chesterfield location means you're always just minutes away from the people and places that are important to you. You'll love the short commute to some of the area's biggest employers including Dupont Fibers, Phillip Morris & Chippenham Hospital. If you're looking for fantastic shopping and dining you'll find it right around the corner at the Chesterfield Towne Center.  Best of all, we're located in the coveted and always top-rated Chesterfield County School System.
-      - Our 2BR apartments feature all of the amenities you're looking for in your new rental home including central air conditioning, a fully equipped kitchen with dishwasher, plush wall-to-wall carpeting and more! Looking for a more updated apartment? You'll find our remodeled 2BR apartments stunning and affordable.
-    links:
-      - title: Learn More
-        url: 'http://www.heritagepointe-online.com'
-      - title: View Floor Plans
-        url: 'http://www.heritagepointe-online.com/Floor-plans.aspx'
-      - title: View Photos
-        url: 'http://www.heritagepointe-online.com/Gallery.aspx'
-      - title: Schedule A Tour
-        url: 'http://www.heritagepointe-online.com/Contact.aspx'
-      - title: Apply Online
-        url: 'http://www.heritagepointe-online.com/Floor-plans.aspx'
-      - title: Contact My Property Manager
-        url: 'http://www.heritagepointe-online.com/Contact.aspx'
-      - title: Pay My Rent Online
-        url: 'http://heritagepointe.activebuilding.com/'
-      - title: Visit Resident Portal
-        url: 'http://heritagepointe.activebuilding.com/'
 
   - name: Hickory Point Townhomes
     city: 'Newport News, VA'
@@ -908,6 +846,7 @@ properties:
         url: 'http://wiltonapartments.activebuilding.com/'
       - title: Visit Resident Portal
         url: 'http://wiltonapartments.activebuilding.com/'
+
 regions:
   - name: charlottesville
     lat: 38.0433686
