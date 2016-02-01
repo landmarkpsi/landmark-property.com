@@ -783,9 +783,9 @@ properties:
       - title: Contact My Property Manager
         url: 'http://www.threechoptwest-online.com/Contact.aspx'
       - title: Pay My Rent Online
-        url: 'http://activebuilding.com/'
+        url: 'http://www.activebuilding.com/'
       - title: Visit Resident Portal
-        url: 'http://activebuilding.com/'
+        url: 'http://www.activebuilding.com/'
         
   - name: Virginia Beach Community Development Corporation (VBCDC)
     city: 'Virginia Beach, VA'
