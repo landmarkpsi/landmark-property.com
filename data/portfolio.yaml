@@ -757,6 +757,36 @@ properties:
       - title: Visit Resident Portal
         url: 'http://tanglewood.activebuilding.com/'
 
+  - name: Three Chopt West
+    city: 'Richmond, VA'
+    img: nophoto.jpg
+    address: 8808 Three Chopt Rd #201, Henrico, VA 23228
+    lat: 37.595878
+    lng: -77.577126
+    region: richmond
+    neighborhood: Richmond
+    bedrooms: 1, 2, 3 &amp; 4
+    petfriendly: true 
+    descriptions:
+      - If you’re looking for a neighborhood that combines suburban charm, outstanding shopping and mouth-watering restaurants, look no further than Richmond’s prestigious West End.  Three Chopt West sits in the heart of this coveted neighborhood, mirroring the mature landscaping and tree-lined streets that define the area.  Top-rated restaurants can be found just blocks away whether you're looking for micro-brews and cocktails or a burger and fries.  The West End is Richmond’s Goldilocks neighborhood, situated equidistant from the boutiques of Carytown and the luxury shopping at Short Pump Town Center.  Best of all, Three Chopt West offers the largest floor plans in the West End!  
+    links:
+      - title: Learn More
+        url: 'http://www.threechoptwest-online.com'
+      - title: View Floor Plans
+        url: 'http://www.threechoptwest-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.threechoptwest-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.threechoptwest-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.threechoptwest-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.threechoptwest-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://activebuilding.com/'
+        
   - name: Virginia Beach Community Development Corporation (VBCDC)
     city: 'Virginia Beach, VA'
     img: nophoto.jpg
