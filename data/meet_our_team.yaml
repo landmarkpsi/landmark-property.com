@@ -54,7 +54,7 @@ multifamily:
       - name: twitter
         url: https://twitter.com/laddda13
         icon: fa-twitter
- hoa:
+hoa:
   - name: Debra Fifer
     title: Director of Association Management
     email: dfifer@landmark-property.com

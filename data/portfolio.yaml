@@ -180,7 +180,7 @@ properties:
       - title: Pay My Rent Online
         url: 'http://colonialheights.activebuilding.com/'
       - title: Visit Resident Portal
-      url: 'http://colonialheights.activebuilding.com/'
+        url: 'http://colonialheights.activebuilding.com/'
 
   - name: Colonial Point Apartments
     city: 'Gloucester Point, VA'
@@ -786,7 +786,7 @@ properties:
         url: 'http://vbcdc.activebuilding.com/'
       - title: Visit Resident Portal
         url: 'http://vbcdc.activebuilding.com/'
-        
+
   - name: Willow Oaks
     city: 'Richmond, VA'
     img: willowoaks.jpg
@@ -816,7 +816,7 @@ properties:
         url: 'http://willowoaks.activebuilding.com/'
       - title: Visit Resident Portal
         url: 'http://willowoaks.activebuilding.com/'             
-        
+
   - name: The Wilton Companies Apartments
     city: 'Richmond, VA'
     img: nophoto.jpg
