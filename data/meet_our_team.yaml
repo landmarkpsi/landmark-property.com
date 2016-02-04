@@ -54,11 +54,6 @@ multifamily:
       - name: twitter
         url: https://twitter.com/laddda13
         icon: fa-twitter
-  - name: Debra Fifer
-    title: Director of Association Management
-    email: dfifer@landmark-property.com
-    phone: 804 673 1976
-    photo: debraprofile.jpg
 hoa:
   - name: Melinda Thompson
     title: Regional Property Manager
