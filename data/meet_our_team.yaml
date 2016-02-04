@@ -30,6 +30,7 @@ principals:
         url: https://twitter.com/landmarkpropsrv
         icon: fa-twitter
 multifamily:
+hoa:
   - name: Kathryn Hall
     title: Senior Regional Manager
     email: khall@landmark-property.com
@@ -54,7 +55,11 @@ multifamily:
       - name: twitter
         url: https://twitter.com/laddda13
         icon: fa-twitter
-hoa:
+  - name: Debra Fifer
+    title: Director of Association Management
+    email: dfifer@landmark-property.com
+    phone: 804 673 1976
+    photo: debraprofile.jpg
   - name: Melinda Thompson
     title: Regional Property Manager
     email: mthompson@landmark-property.com
