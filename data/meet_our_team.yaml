@@ -60,34 +60,70 @@ hoa:
     email: dfifer@landmark-property.com
     phone: 804 673 1976
     photo: debraprofile.jpg
+    social_media:
+      - name: twitter
+        url: https://twitter.com/landmarkpropsrv
+        icon: fa-twitter
   - name: Melinda Thompson
-    title: Regional Property Manager
+    title: Property Manager  
     email: mthompson@landmark-property.com
     phone: 804 282 2574
     photo: melindaprofile.jpg
+    social_media:
+      - name: twitter
+        url: https://twitter.com/landmarkpropsrv
+        icon: fa-twitter
   - name: Liz Dalton
     title: Property Manager
     email: edalton@landmark-property.com
     phone: 804 553 2456
     photo: lizprofile.jpg
+    social_media:
+      - name: twitter
+        url: https://twitter.com/landmarkpropsrv
+        icon: fa-twitter
   - name: Nicole Garrett
     title: Property Manager
     email: ngarrett@landmark-property.com
+    phone: 804 673 0900
     photo: Nicole G.jpg
+    social_media:
+      - name: twitter
+        url: https://twitter.com/landmarkpropsrv
+        icon: fa-twitter
   - name: Kellie Cox
     title: Property Manager
     email: kcox@landmark-property.com
+    phone: 804 673 0900
     photo: nophoto.jpg
+    social_media:
+      - name: twitter
+        url: https://twitter.com/landmarkpropsrv
+        icon: fa-twitter
   - name: Berkley Whitener
     title: Property Manager
     email: bwhitener@landmark-property.com
     phone: 804 553 2466
     photo: berkwhitener.jpg
+    social_media:
+      - name: twitter
+        url: https://twitter.com/landmarkpropsrv
+        icon: fa-twitter
   - name: Shari Schaefer
     title: Internet Marketing Specialist
     email: sschaefer@landmark-property.com
+    phone: 804 673 0900
     photo: shariprofile.jpg
+    social_media:
+      - name: twitter
+        url: https://twitter.com/landmarkpropsrv
+        icon: fa-twitter
   - name: Paige Alcorn
     title: Human Resources Manager
     email: palcorn@landmark-property.com
+    phone: 804 673 0900
     photo: paigeprofile.jpg
+    social_media:
+      - name: twitter
+        url: https://twitter.com/landmarkpropsrv
+        icon: fa-twitter
