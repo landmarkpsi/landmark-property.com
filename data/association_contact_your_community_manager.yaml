@@ -4,7 +4,7 @@ communities:
       - Kellie Cox
   - name: "Anchor Point Community Association"
     managers:
-      - Berkeley Whitener
+      - Berkley Whitener
   - name: "Battlefield Commons Townhouse Association, Inc."
     managers:
       - Nicole Garrett
@@ -19,16 +19,16 @@ communities:
       - Melinda Thompson
   - name: "Chester Village Green Property Owners' Association"
     managers:
-      - Berkeley Whitener
+      - Berkley Whitener
   - name: "Colonies at Wilde Lake"
     managers:
       - Melinda Thompson
   - name: "Crenshaw Condominium Owners' Association"
     managers:
-      - Berkeley Whitener
+      - Berkley Whitener
   - name: "Townes at Eagle Cove Homeowners' Association"
     managers:
-      - Berkeley Whitener
+      - Berkley Whitener
   - name: "Fan Square Condominium Owners' Association"
     managers:
       - Kellie Cox
@@ -48,7 +48,7 @@ communities:
     url: "http://www.ginterplacecondo.com/"
     managers:
       - Debra Fifer
-      - Berkeley Whitener
+      - Berkley Whitener
   - name: "Glenside Woods Townhouse Association, Inc."
     managers:
       - Nicole Garrett
@@ -66,7 +66,7 @@ communities:
       - Elizibith Dalton
   - name: "Monument Terrace Association"
     managers:
-      - Berkeley Whitener
+      - Berkley Whitener
   - name: "Mooreland Landing Property Owners Association"
     managers:
       - Kellie Cox
@@ -84,19 +84,19 @@ communities:
       - Kellie Cox
   - name: "St. Patrick's Place Condominium"
     managers:
-      - Berkeley Whitener
+      - Berkley Whitener
   - name: "Sterling Row Condominium Association"
     managers:
-      - Berkeley Whitener
+      - Berkley Whitener
   - name: "Sturbridge Village Townhouse Association"
     managers:
       - Kellie Cox
   - name: "Sussex Wood Townhouse Association"
     managers:
-      - Berkeley Whitener
+      - Berkley Whitener
   - name: "The Townes of Stratford Hills Homeowners Association, Inc."
     managers:
-      - Berkeley Whitener
+      - Berkley Whitener
   - name: "Tuckahoe Association"
     managers: 
       - Debra Fifer
@@ -114,10 +114,10 @@ communities:
       - Melinda Thompson
   - name: "Waterside Townhouses at Anchor Point"
     managers:
-      - Berkeley Whitener
+      - Berkley Whitener
   - name: "Westover Pines Townhouse Homeowners Association, Inc."
     managers:
-      - Berkeley Whitener
+      - Berkley Whitener
   - name: "Wilde Lake Association"
     url: "http://www.wilde-lake.org/"
     managers:
@@ -151,7 +151,7 @@ managers:
     phone: 804.282.2574
     fax: 804.212.3870
     email: mthompson@landmark-property.com
-  - name: Berkeley Whitener
+  - name: Berkley Whitener
     phone: 804.553.2466
     fax: 804.282.1127
     email: bwhitener@landmark-property.com
