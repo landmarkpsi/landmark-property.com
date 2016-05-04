@@ -180,8 +180,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  less (~> 2.6.0)
-  libv8 (~> 4.5, >= 4.5.95.5)
   middleman (~> 4.1.7)
   middleman-imageoptim (~> 0.2.1)
   middleman-livereload (~> 3.4.6)
