@@ -58,19 +58,19 @@ sprockets.append_path 'assets/plugins'
 
 data.portfolio.properties.map(&:region).each do |region|
   proxy "/#{region}", '/region-template.html', locals: {
-    region: region,
-    title: "Apartments in #{region.tr('-', ' ').split.map(&:capitalize).join(' ')}",
-    description: "Find properties in #{region.tr('-', ' ').split.map(&:capitalize).join(' ')} managed by Landmark Proeprty Services, Inc."
-  }, ignore: true
+                        region: region,
+                        title: "Apartments in #{region.tr('-', ' ').split.map(&:capitalize).join(' ')}",
+                        description: "Find properties in #{region.tr('-', ' ').split.map(&:capitalize).join(' ')} managed by Landmark Proeprty Services, Inc."
+                    }, ignore: true
 end
 
 data.portfolio.properties.each do |property|
   proxy "/#{property.name.tr(' ', '-').downcase}", '/property-template.html', locals: {
-    property: property,
-    title: "#{property.name} - #{property.city}",
-    description: property.descriptions.join(' '),
-    keywords: [property.address, property.neighborhood, property.name]
-  }, ignore: true
+                                                     property: property,
+                                                     title: "#{property.name} - #{property.city}",
+                                                     description: property.descriptions.join(' '),
+                                                     keywords: [property.address, property.neighborhood, property.name]
+                                                 }, ignore: true
 end
 
 activate :directory_indexes
