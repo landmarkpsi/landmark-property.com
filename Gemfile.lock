@@ -98,7 +98,7 @@ GEM
       middleman-sprockets (>= 3.1.2)
       sass (>= 3.4.0, < 4.0)
       uglifier (~> 2.5)
-    middleman-core (4.1.7)
+    middleman-core (3.4.0)
       activesupport (~> 4.1)
       bundler (~> 1.1)
       capybara (~> 2.4.4)
