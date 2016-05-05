@@ -9,3 +9,4 @@ gem 'therubyracer', '~> 0.12.2'
 gem "less-rails"
 gem 'twitter-bootstrap-rails', '2.1.7'
 gem 'rails'
+gem 'middleman-sprockets'
