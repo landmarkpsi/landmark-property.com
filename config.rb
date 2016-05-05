@@ -46,7 +46,7 @@ end
 #     "Helping"
 #   end
 # end
-activate :sprockets
+# activate :sprockets
 
 set :css_dir, 'assets/css'
 
