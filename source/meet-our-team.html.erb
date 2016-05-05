@@ -12,7 +12,7 @@ keywords: 'Brian Chase, Pinson Neal, Judy Olive, multifamily, apartments, owners
 
         <!-- Principals -->
         <div class="row">
-            <% data.meet_our_team.principals.each do |principal| %>
+            <% data.meet_our_team.principals.each_slice(4) do |principal| %>
                 <!-- Team v2 -->
                 <div class="col-md-4 col-sm-12">
                     <div class="team-v2">
@@ -44,7 +44,7 @@ keywords: 'Brian Chase, Pinson Neal, Judy Olive, multifamily, apartments, owners
         <!-- End Principals -->
 
         <!-- Multifamily -->
-        <% data.meet_our_team.multifamily.each_slice() do |group| %>
+        <% data.meet_our_team.multifamily.each_slice(4) do |group| %>
             <div class="row">
                 <% group.each do |person| %>
                     <div class="col-md-3 col-sm-6">
@@ -73,7 +73,7 @@ keywords: 'Brian Chase, Pinson Neal, Judy Olive, multifamily, apartments, owners
         <!-- End Multifamily -->
 
         <!-- HOA and staff-->
-        <% data.meet_our_team.hoa.each_slice() do |group| %>
+        <% data.meet_our_team.hoa.each_slice(4) do |group| %>
             <div class="row">
                 <% group.each do |person| %>
                     <div class="col-md-3 col-sm-6">
