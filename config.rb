@@ -54,7 +54,7 @@ set :js_dir, 'assets/js'
 
 set :images_dir, 'assets/img'
 
-sprockets.append_path 'assets/plugins'
+# sprockets.append_path 'assets/plugins'
 
 data.portfolio.properties.map(&:region).each do |region|
   proxy "/#{region}", '/region-template.html', locals: {
