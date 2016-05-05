@@ -1,4 +1,4 @@
-//= require jquery/jquery-migrate.min.js
+//= require ../plugins/jquery/jquery-migrate.min.js
 //= require bootstrap/js/bootstrap.min
 //= require back-to-top
 //= require smoothScroll
