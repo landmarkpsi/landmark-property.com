@@ -91,7 +91,7 @@ configure :build do
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
-  activate :gzip
+  # activate :gzip
   activate :minify_html
   activate :imageoptim
 end
