@@ -6,7 +6,6 @@
 * Ruby 2.2.x
 * [Middleman 3.x](https://middlemanapp.com/)
 * Deployed to AWS S3 via [middleman_s3sync](https://github.com/fredjean/middleman-s3_sync)
-* testing deployment
 
 ## Links
 * [Production](http://landmark-property.com.s3-website-us-east-1.amazonaws.com/)
