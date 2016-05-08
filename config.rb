@@ -93,9 +93,15 @@ configure :build do
   #set :http_prefix, "/Content/images/"
   activate :gzip
   activate :minify_html
+
+end
+
   activate :imageoptim do |options|
       options.skip_missing_workers = true
       options.svgo = {}
+end
+
+
   activate :s3_sync do |s3_sync|
       s3_sync.bucket                     = ENV['AWS_BUCKET'] || 'landmark-property.com'
       s3_sync.region                     = 'us-east-1'
