@@ -30,14 +30,14 @@ principals:
         url: https://twitter.com/landmarkpropsrv
         icon: fa-twitter
 multifamily:
-  # - name: Kathryn Hall
-  #   title: Senior Regional Manager
-  #   email: khall@landmark-property.com
-  #   photo: kathrynprofile.jpg
-  #   social_media:
-  #     - name: twitter
-  #       url: https://twitter.com/hall23_hall
-  #       icon: fa-twitter
+   - name: Kathryn Hall
+     title: Senior Regional Manager
+     email: khall@landmark-property.com
+     photo: kathrynprofile.jpg
+     social_media:
+       - name: twitter
+         url: https://twitter.com/hall23_hall
+         icon: fa-twitter
   - name: Jill Levins
     title: Regional Manager
     email: jlevins@landmark-property.com
