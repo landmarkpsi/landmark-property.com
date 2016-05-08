@@ -30,11 +30,10 @@ principals:
         url: https://twitter.com/landmarkpropsrv
         icon: fa-twitter
 multifamily:
-hoa:
   - name: Kathryn Hall
     title: Senior Regional Manager
     email: khall@landmark-property.com
-    photo: hall.jpg
+    photo: kathrynprofile.jpg
     social_media:
       - name: twitter
         url: https://twitter.com/hall23_hall
@@ -42,7 +41,7 @@ hoa:
   - name: Jill Levins
     title: Regional Manager
     email: jlevins@landmark-property.com
-    photo: levins.jpg
+    photo: jillprofile.jpg
     social_media:
       - name: twitter
         url: https://twitter.com/landmarkpropsrv
@@ -50,80 +49,45 @@ hoa:
   - name: Ashley Bowman
     title: Regional Manager
     email: abowman@landmark-property.com
-    photo: ashley-500.jpg
+    photo: ashleyprofile.jpg
     social_media:
       - name: twitter
         url: https://twitter.com/laddda13
         icon: fa-twitter
+hoa:
   - name: Debra Fifer
     title: Director of Association Management
     email: dfifer@landmark-property.com
     phone: 804 673 1976
-    photo: fifer.jpg
-    social_media:
-      - name: twitter
-        url: https://twitter.com/landmarkpropsrv
-        icon: fa-twitter
+    photo: debraprofile.jpg
   - name: Melinda Thompson
-    title: Property Manager  
+    title: Regional Property Manager
     email: mthompson@landmark-property.com
     phone: 804 282 2574
-    photo: thompson.jpg
-    social_media:
-      - name: twitter
-        url: https://twitter.com/landmarkpropsrv
-        icon: fa-twitter
+    photo: melindaprofile.jpg
   - name: Liz Dalton
     title: Property Manager
     email: edalton@landmark-property.com
     phone: 804 553 2456
-    photo: nophoto.jpg
-    social_media:
-      - name: twitter
-        url: https://twitter.com/landmarkpropsrv
-        icon: fa-twitter
+    photo: lizprofile.jpg
   - name: Nicole Garrett
     title: Property Manager
     email: ngarrett@landmark-property.com
-    phone: 804 673 0900
-    photo: Nicole G.jpg
-    social_media:
-      - name: twitter
-        url: https://twitter.com/landmarkpropsrv
-        icon: fa-twitter
-  - name: Kellie Cox
+    photo: nicoleprofile.jpg
+  - name: Kelli Cox
     title: Property Manager
     email: kcox@landmark-property.com
-    phone: 804 673 0900
     photo: nophoto.jpg
-    social_media:
-      - name: twitter
-        url: https://twitter.com/landmarkpropsrv
-        icon: fa-twitter
   - name: Berkley Whitener
     title: Property Manager
     email: bwhitener@landmark-property.com
     phone: 804 553 2466
     photo: berkwhitener.jpg
-    social_media:
-      - name: twitter
-        url: https://twitter.com/landmarkpropsrv
-        icon: fa-twitter
   - name: Shari Schaefer
     title: Internet Marketing Specialist
     email: sschaefer@landmark-property.com
-    phone: 804 673 0900
     photo: shariprofile.jpg
-    social_media:
-      - name: twitter
-        url: https://twitter.com/landmarkpropsrv
-        icon: fa-twitter
   - name: Paige Alcorn
     title: Human Resources Manager
     email: palcorn@landmark-property.com
-    phone: 804 673 0900
     photo: paigeprofile.jpg
-    social_media:
-      - name: twitter
-        url: https://twitter.com/landmarkpropsrv
-        icon: fa-twitter
