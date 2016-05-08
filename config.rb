@@ -93,7 +93,9 @@ configure :build do
   #set :http_prefix, "/Content/images/"
   activate :gzip
   activate :minify_html
-  activate :imageoptim
+  activate :imageoptim do |options|
+    options.skip_missing_workers = true
+    options.svgo = {}
 end
 
 activate :s3_sync do |s3_sync|
