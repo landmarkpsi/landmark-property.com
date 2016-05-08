@@ -94,22 +94,20 @@ configure :build do
   activate :gzip
   activate :minify_html
   activate :imageoptim do |options|
-    options.skip_missing_workers = true
-    options.svgo = {}
-end
-
-activate :s3_sync do |s3_sync|
-  s3_sync.bucket                     = ENV['AWS_BUCKET'] || 'landmark-property.com'
-  s3_sync.region                     = 'us-east-1'
-  s3_sync.delete                     = false
-  s3_sync.after_build                = false
-  s3_sync.prefer_gzip                = true
-  s3_sync.path_style                 = true
-  s3_sync.reduced_redundancy_storage = false
-  s3_sync.acl                        = 'public-read'
-  s3_sync.encryption                 = false
-  s3_sync.prefix                     = ''
-  s3_sync.version_bucket             = false
+      options.skip_missing_workers = true
+      options.svgo = {}
+  activate :s3_sync do |s3_sync|
+      s3_sync.bucket                     = ENV['AWS_BUCKET'] || 'landmark-property.com'
+      s3_sync.region                     = 'us-east-1'
+      s3_sync.delete                     = false
+      s3_sync.after_build                = false
+      s3_sync.prefer_gzip                = true
+      s3_sync.path_style                 = true
+      s3_sync.reduced_redundancy_storage = false
+      s3_sync.acl                        = 'public-read'
+      s3_sync.encryption                 = false
+      s3_sync.prefix                     = ''
+      s3_sync.version_bucket             = false
 end
 
 default_caching_policy expires: (Time.now + 60 * 60 * 24 * 365)
