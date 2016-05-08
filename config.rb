@@ -99,6 +99,10 @@ end
   activate :imageoptim do |options|
       options.skip_missing_workers = true
       options.svgo = {}
+      options.nice = true
+      options.threads = true
+      options.verbose = false
+      options.image_extensions = %w(.png, .jpg, .gif, .svg)
 end
 
 
