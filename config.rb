@@ -60,7 +60,7 @@ data.portfolio.properties.map(&:region).each do |region|
   proxy "/#{region}", '/region-template.html', locals: {
                         region: region,
                         title: "Apartments in #{region.tr('-', ' ').split.map(&:capitalize).join(' ')}",
-                        description: "Find properties in #{region.tr('-', ' ').split.map(&:capitalize).join(' ')} managed by Landmark Proeprty Services, Inc."
+                        description: "Find properties in #{region.tr('-', ' ').split.map(&:capitalize).join(' ')} managed by Landmark Property Services, Inc."
                     }, ignore: true
 end
 
