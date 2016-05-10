@@ -184,7 +184,7 @@ properties:
 
   - name: Colonial Point Apartments
     city: 'Gloucester Point, VA'
-    img: nophoto.jpg
+    img: colpoint.jpg
     address: 7698 Colonial Point Lane, Gloucester Point, VA 23062
     lng: -76.493823
     lat: 37.261196
@@ -849,7 +849,7 @@ properties:
 
   - name: The Wilton Companies Apartments
     city: 'Richmond, VA'
-    img: nophoto.jpg
+    img: WiltonCo2.jpg
     address: 9010 Patterson Ave, Richmond, VA 23229
     lat: 37.595878
     lng: -77.577126
