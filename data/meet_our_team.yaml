@@ -73,10 +73,12 @@ hoa:
   - name: Nicole Garrett
     title: Property Manager
     email: ngarrett@landmark-property.com
+    phone: 804 673 1933
     photo: nophoto.jpg
-  - name: Kelli Cox
+  - name: Kellie Cox
     title: Property Manager
     email: kcox@landmark-property.com
+    phone: 804 673 1981
     photo: nophoto.jpg
   - name: Berkley Whitener
     title: Property Manager
@@ -84,7 +86,7 @@ hoa:
     phone: 804 553 2466
     photo: berkwhitener.jpg
   - name: Shari Schaefer
-    title: Internet Marketing Specialist
+    title: Digital Marketing Specialist
     email: sschaefer@landmark-property.com
     photo: nophoto.jpg
   - name: Paige Alcorn
