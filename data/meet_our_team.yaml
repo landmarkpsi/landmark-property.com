@@ -30,18 +30,18 @@ principals:
         url: https://twitter.com/landmarkpropsrv
         icon: fa-twitter
 multifamily:
-  # - name: Kathryn Hall
-  #   title: Senior Regional Manager
-  #   email: khall@landmark-property.com
-  #   photo: kathrynprofile.jpg
-  #   social_media:
-  #     - name: twitter
-  #       url: https://twitter.com/hall23_hall
-  #       icon: fa-twitter
+  - name: Kathryn Hall
+    title: Senior Regional Manager
+    email: khall@landmark-property.com
+    photo: hall.jpg
+    social_media:
+      - name: twitter
+        url: https://twitter.com/hall23_hall
+        icon: fa-twitter
   - name: Jill Levins
     title: Regional Manager
     email: jlevins@landmark-property.com
-    photo: jillprofile.jpg
+    photo: levins.jpg
     social_media:
       - name: twitter
         url: https://twitter.com/landmarkpropsrv
@@ -49,7 +49,7 @@ multifamily:
   - name: Ashley Bowman
     title: Regional Manager
     email: abowman@landmark-property.com
-    photo: ashleyprofile.jpg
+    photo: ahsley-500.jpg
     social_media:
       - name: twitter
         url: https://twitter.com/laddda13
@@ -59,12 +59,12 @@ hoa:
     title: Director of Association Management
     email: dfifer@landmark-property.com
     phone: 804 673 1976
-    photo: debraprofile.jpg
+    photo: fifer.jpg
   - name: Melinda Thompson
     title: Regional Property Manager
     email: mthompson@landmark-property.com
     phone: 804 282 2574
-    photo: melindaprofile.jpg
+    photo: thompson.jpg
   - name: Liz Dalton
     title: Property Manager
     email: edalton@landmark-property.com
