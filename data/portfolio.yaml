@@ -213,65 +213,65 @@ properties:
       - title: Visit Resident Portal
         url: 'http://colonialpoint.activebuilding.com/'
 
-  - name: Creekpointe Apartments
-    city: 'Midlothian, VA'
-    img: creekpointe.jpg
-    address: 14600 Creekpointe Circle, Midlothian, VA  23114
-    lat: 37.4668924
-    lng: -77.6749276
-    region: richmond
-    neighborhood: Midlothian
-    bedrooms: 2 &amp; 3
-    petfriendly: true
-    descriptions:
-      - Getting everything you want in an affordable apartment and staying within your budget is possible at Creekpointe Apartments in Midlothian, VA. Our value packed 2 & 3 bedroom apartments prove that you can live luxuriously without breaking the bank.  We know that when it comes to apartment living, bigger is always better.  That’s why we offer the largest floor plans in Midlothian with tons of extra closet space and storage. Enjoy an open concept living space, complete with a kitchen bar and separate dining area. In the spring and summer, you’ll love opening your patio doors to extend your living space to the outdoors. Our huge bedrooms are sure to fit all of your stuff, and you’ll love that every apartment offers two full bathrooms!  Don’t settle for just an affordable apartment.  Move to Creekpointe Apartments and enjoy luxury living at an affordable price!
-    links:
-      - title: Learn More
-        url: 'http://www.creekpointe-online.com'
-      - title: View Floor Plans
-        url: 'http://www.creekpointe-online.com/Floor-plans.aspx'
-      - title: View Photos
-        url: 'http://www.creekpointe-online.com/Gallery.aspx'
-      - title: Schedule A Tour
-        url: 'http://www.creekpointe-online.com/Contact.aspx'
-      - title: Apply Online
-        url: 'http://www.creekpointe-online.com/Floor-plans.aspx'
-      - title: Contact My Property Manager
-        url: 'http://www.creekpointe-online.com/Contact.aspx'
-      - title: Pay My Rent Online
-        url: 'http://creekpointe.activebuilding.com/'
-      - title: Visit Resident Portal
-        url: 'http://creekpointe.activebuilding.com/'
+  # - name: Creekpointe Apartments
+  #   city: 'Midlothian, VA'
+  #   img: creekpointe.jpg
+  #   address: 14600 Creekpointe Circle, Midlothian, VA  23114
+  #   lat: 37.4668924
+  #   lng: -77.6749276
+  #   region: richmond
+  #   neighborhood: Midlothian
+  #   bedrooms: 2 &amp; 3
+  #   petfriendly: true
+  #   descriptions:
+  #     - Getting everything you want in an affordable apartment and staying within your budget is possible at Creekpointe Apartments in Midlothian, VA. Our value packed 2 & 3 bedroom apartments prove that you can live luxuriously without breaking the bank.  We know that when it comes to apartment living, bigger is always better.  That’s why we offer the largest floor plans in Midlothian with tons of extra closet space and storage. Enjoy an open concept living space, complete with a kitchen bar and separate dining area. In the spring and summer, you’ll love opening your patio doors to extend your living space to the outdoors. Our huge bedrooms are sure to fit all of your stuff, and you’ll love that every apartment offers two full bathrooms!  Don’t settle for just an affordable apartment.  Move to Creekpointe Apartments and enjoy luxury living at an affordable price!
+  #   links:
+  #     - title: Learn More
+  #       url: 'http://www.creekpointe-online.com'
+  #     - title: View Floor Plans
+  #       url: 'http://www.creekpointe-online.com/Floor-plans.aspx'
+  #     - title: View Photos
+  #       url: 'http://www.creekpointe-online.com/Gallery.aspx'
+  #     - title: Schedule A Tour
+  #       url: 'http://www.creekpointe-online.com/Contact.aspx'
+  #     - title: Apply Online
+  #       url: 'http://www.creekpointe-online.com/Floor-plans.aspx'
+  #     - title: Contact My Property Manager
+  #       url: 'http://www.creekpointe-online.com/Contact.aspx'
+  #     - title: Pay My Rent Online
+  #       url: 'http://creekpointe.activebuilding.com/'
+  #     - title: Visit Resident Portal
+  #       url: 'http://creekpointe.activebuilding.com/'
 
-  - name: The Glenns at Millers Lane
-    city: 'Richmond, VA'
-    img: glenns.jpg
-    address: 4700 Milers Lane, Richmond, VA  23231
-    lat: 37.52328
-    lng: -77.3661357
-    region: richmond
-    neighborhood: East End
-    bedrooms: 2 &amp; 3
-    petfriendly: true
-    descriptions:
-      - Getting everything you want in an affordable apartment and staying within your budget is possible at the Glenns at Millers Lane in Eastern Henrico County. Our value packed 2 & 3 bedroom apartments prove that you can live large without breaking the bank.  We know that when it comes to apartment living, bigger is always better.  That’s why we offer the largest floor plans in Eastern Henrico with tons of extra closet space and storage. Enjoy an open concept living space, complete with a kitchen bar and separate dining area. In the spring and summer, you’ll love opening your patio doors to extend your living space to the outdoors. Our huge bedrooms are sure to fit all of your stuff, and you’ll love that every apartment offers two full bathrooms!  Don’t settle for just an affordable apartment.  Move to the Glenns at Millers Lane and enjoy living large at an affordable price!
-    links:
-      - title: Learn More
-        url: 'http://www.theglenns-online.com'
-      - title: View Floor Plans
-        url: 'http://www.theglenns-online.com/Floor-plans.aspx'
-      - title: View Photos
-        url: 'http://www.theglenns-online.com/Gallery.aspx'
-      - title: Schedule A Tour
-        url: 'http://www.theglenns-online.com/Contact.aspx'
-      - title: Apply Online
-        url: 'http://www.theglenns-online.com/Floor-plans.aspx'
-      - title: Contact My Property Manager
-        url: 'http://www.theglenns-online.com/Contact.aspx'
-      - title: Pay My Rent Online
-        url: 'http://theglenns.activebuilding.com/'
-      - title: Visit Resident Portal
-        url: 'http://theglenns.activebuilding.com/'
+  # - name: The Glenns at Millers Lane
+  #   city: 'Richmond, VA'
+  #   img: glenns.jpg
+  #   address: 4700 Milers Lane, Richmond, VA  23231
+  #   lat: 37.52328
+  #   lng: -77.3661357
+  #   region: richmond
+  #   neighborhood: East End
+  #   bedrooms: 2 &amp; 3
+  #   petfriendly: true
+  #   descriptions:
+  #     - Getting everything you want in an affordable apartment and staying within your budget is possible at the Glenns at Millers Lane in Eastern Henrico County. Our value packed 2 & 3 bedroom apartments prove that you can live large without breaking the bank.  We know that when it comes to apartment living, bigger is always better.  That’s why we offer the largest floor plans in Eastern Henrico with tons of extra closet space and storage. Enjoy an open concept living space, complete with a kitchen bar and separate dining area. In the spring and summer, you’ll love opening your patio doors to extend your living space to the outdoors. Our huge bedrooms are sure to fit all of your stuff, and you’ll love that every apartment offers two full bathrooms!  Don’t settle for just an affordable apartment.  Move to the Glenns at Millers Lane and enjoy living large at an affordable price!
+  #   links:
+  #     - title: Learn More
+  #       url: 'http://www.theglenns-online.com'
+  #     - title: View Floor Plans
+  #       url: 'http://www.theglenns-online.com/Floor-plans.aspx'
+  #     - title: View Photos
+  #       url: 'http://www.theglenns-online.com/Gallery.aspx'
+  #     - title: Schedule A Tour
+  #       url: 'http://www.theglenns-online.com/Contact.aspx'
+  #     - title: Apply Online
+  #       url: 'http://www.theglenns-online.com/Floor-plans.aspx'
+  #     - title: Contact My Property Manager
+  #       url: 'http://www.theglenns-online.com/Contact.aspx'
+  #     - title: Pay My Rent Online
+  #       url: 'http://theglenns.activebuilding.com/'
+  #     - title: Visit Resident Portal
+  #       url: 'http://theglenns.activebuilding.com/'
 
   - name: The Hamptons
     city: 'Virginia Beach, VA'
@@ -394,65 +394,65 @@ properties:
       - title: Visit Resident Portal
         url: 'http://1700main.activebuilding.com/'
 
-  - name: Lieutenants Run
-    city: 'Petersburg, VA'
-    img: lieutenantsrun.jpg
-    address: 102 Lieutenants Run Drive, Petersburg, VA  23805
-    lat: 37.2066067
-    lng: -77.403506
-    region: richmond
-    neighborhood: Petersburg
-    bedrooms: 2 &amp; 3
-    petfriendly: true
-    descriptions:
-      - Getting everything you want in an affordable apartment and staying within your budget is possible at Lieutenants Run Apartments.  Located just minutes from Fort Lee, Southpark Mall and I-95, and situated in a wooded residential neighborhood, Lieutenants Run offers city convenience in a suburban setting.  Our value packed 2 & 3 bedroom apartments prove that you can live large without breaking the bank.  We know that when it comes to apartment living, bigger is always better.  That’s why we offer the largest floor plans in Petersburg, with tons of extra closet space and storage. Enjoy an open concept living space, complete with a kitchen bar and separate dining area. In the spring and summer, you’ll love opening your patio doors to extend your living space to the outdoors. Our huge bedrooms are sure to fit all of your stuff, and you’ll love that every apartment offers two full bathrooms!  Don’t settle for just an affordable apartment.  Move to Lieutenants Run Apartments and enjoy living large at an affordable price!
-    links:
-      - title: Learn More
-        url: 'http://www.lieutenantsrun-online.com'
-      - title: View Floor Plans
-        url: 'http://www.lieutenantsrun-online.com/Floor-plans.aspx'
-      - title: View Photos
-        url: 'http://www.lieutenantsrun-online.com/Gallery.aspx'
-      - title: Schedule A Tour
-        url: 'http://www.lieutenantsrun-online.com/Contact.aspx'
-      - title: Apply Online
-        url: 'http://www.lieutenantsrun-online.com/Floor-plans.aspx'
-      - title: Contact My Property Manager
-        url: 'http://www.lieutenantsrun-online.com/Contact.aspx'
-      - title: Pay My Rent Online
-        url: 'http://lieutenantsrun.activebuilding.com/'
-      - title: Visit Resident Portal
-        url: 'http://lieutenantsrun.activebuilding.com/'
+  # - name: Lieutenants Run
+  #   city: 'Petersburg, VA'
+  #   img: lieutenantsrun.jpg
+  #   address: 102 Lieutenants Run Drive, Petersburg, VA  23805
+  #   lat: 37.2066067
+  #   lng: -77.403506
+  #   region: richmond
+  #   neighborhood: Petersburg
+  #   bedrooms: 2 &amp; 3
+  #   petfriendly: true
+  #   descriptions:
+  #     - Getting everything you want in an affordable apartment and staying within your budget is possible at Lieutenants Run Apartments.  Located just minutes from Fort Lee, Southpark Mall and I-95, and situated in a wooded residential neighborhood, Lieutenants Run offers city convenience in a suburban setting.  Our value packed 2 & 3 bedroom apartments prove that you can live large without breaking the bank.  We know that when it comes to apartment living, bigger is always better.  That’s why we offer the largest floor plans in Petersburg, with tons of extra closet space and storage. Enjoy an open concept living space, complete with a kitchen bar and separate dining area. In the spring and summer, you’ll love opening your patio doors to extend your living space to the outdoors. Our huge bedrooms are sure to fit all of your stuff, and you’ll love that every apartment offers two full bathrooms!  Don’t settle for just an affordable apartment.  Move to Lieutenants Run Apartments and enjoy living large at an affordable price!
+  #   links:
+  #     - title: Learn More
+  #       url: 'http://www.lieutenantsrun-online.com'
+  #     - title: View Floor Plans
+  #       url: 'http://www.lieutenantsrun-online.com/Floor-plans.aspx'
+  #     - title: View Photos
+  #       url: 'http://www.lieutenantsrun-online.com/Gallery.aspx'
+  #     - title: Schedule A Tour
+  #       url: 'http://www.lieutenantsrun-online.com/Contact.aspx'
+  #     - title: Apply Online
+  #       url: 'http://www.lieutenantsrun-online.com/Floor-plans.aspx'
+  #     - title: Contact My Property Manager
+  #       url: 'http://www.lieutenantsrun-online.com/Contact.aspx'
+  #     - title: Pay My Rent Online
+  #       url: 'http://lieutenantsrun.activebuilding.com/'
+  #     - title: Visit Resident Portal
+  #       url: 'http://lieutenantsrun.activebuilding.com/'
 
-  - name: Longhill Grove
-    city: 'Williamsburg, VA'
-    img: longhillgrove.jpg
-    address: 3800 Hill Grove Lane, Williamsburg, VA  23188
-    lat: 37.3151246
-    lng: -76.7890183
-    region: williamsburg
-    neighborhood: Williamsburg
-    bedrooms: 2 &amp; 3
-    petfriendly: true
-    descriptions:
-      - Getting everything you want in an affordable apartment and staying within your budget is possible at Longhill Grove Apartments.  Our value packed 2 & 3 bedroom apartments prove that you can live large without breaking the bank.  We know that when it comes to apartment living, bigger is always better.  That’s why we offer the largest floor plans in Williamsburg, with tons of extra closet space and storage. Enjoy an open concept living space, complete with a kitchen bar and separate dining area. In the spring and summer, you’ll love opening your patio doors to extend your living space to the outdoors. Our huge bedrooms are sure to fit all of your stuff, and you’ll love that every apartment offers two full bathrooms!  Don’t settle for just an affordable apartment.  Move to Longhill Grove Apartments and enjoy living large at an affordable price!
-    links:
-      - title: Learn More
-        url: 'http://www.longhillgrove-online.com'
-      - title: View Floor Plans
-        url: 'http://www.longhillgrove-online.com/Floor-plans.aspx'
-      - title: View Photos
-        url: 'http://www.longhillgrove-online.com/Gallery.aspx'
-      - title: Schedule A Tour
-        url: 'http://www.longhillgrove-online.com/Contact.aspx'
-      - title: Apply Online
-        url: 'http://www.longhillgrove-online.com/Floor-plans.aspx'
-      - title: Contact My Property Manager
-        url: 'http://www.longhillgrove-online.com/Contact.aspx'
-      - title: Pay My Rent Online
-        url: 'http://longhillgrove.activebuilding.com/'
-      - title: Visit Resident Portal
-        url: 'http://longhillgrove.activebuilding.com/'
+  # - name: Longhill Grove
+  #   city: 'Williamsburg, VA'
+  #   img: longhillgrove.jpg
+  #   address: 3800 Hill Grove Lane, Williamsburg, VA  23188
+  #   lat: 37.3151246
+  #   lng: -76.7890183
+  #   region: williamsburg
+  #   neighborhood: Williamsburg
+  #   bedrooms: 2 &amp; 3
+  #   petfriendly: true
+  #   descriptions:
+  #     - Getting everything you want in an affordable apartment and staying within your budget is possible at Longhill Grove Apartments.  Our value packed 2 & 3 bedroom apartments prove that you can live large without breaking the bank.  We know that when it comes to apartment living, bigger is always better.  That’s why we offer the largest floor plans in Williamsburg, with tons of extra closet space and storage. Enjoy an open concept living space, complete with a kitchen bar and separate dining area. In the spring and summer, you’ll love opening your patio doors to extend your living space to the outdoors. Our huge bedrooms are sure to fit all of your stuff, and you’ll love that every apartment offers two full bathrooms!  Don’t settle for just an affordable apartment.  Move to Longhill Grove Apartments and enjoy living large at an affordable price!
+  #   links:
+  #     - title: Learn More
+  #       url: 'http://www.longhillgrove-online.com'
+  #     - title: View Floor Plans
+  #       url: 'http://www.longhillgrove-online.com/Floor-plans.aspx'
+  #     - title: View Photos
+  #       url: 'http://www.longhillgrove-online.com/Gallery.aspx'
+  #     - title: Schedule A Tour
+  #       url: 'http://www.longhillgrove-online.com/Contact.aspx'
+  #     - title: Apply Online
+  #       url: 'http://www.longhillgrove-online.com/Floor-plans.aspx'
+  #     - title: Contact My Property Manager
+  #       url: 'http://www.longhillgrove-online.com/Contact.aspx'
+  #     - title: Pay My Rent Online
+  #       url: 'http://longhillgrove.activebuilding.com/'
+  #     - title: Visit Resident Portal
+  #       url: 'http://longhillgrove.activebuilding.com/'
 
   - name: The Mayfair
     city: 'Virginia Beach, VA'
@@ -577,35 +577,35 @@ properties:
       - title: Visit Resident Portal
         url: 'http://oldbridge.activebuilding.com/'
 
-  - name: Overlook at Brook Run
-    city: 'Richmond, VA'
-    img: overlook.jpg
-    address: 1900 Cliffbrook Lane, Richmond, VA  23227
-    lat: 37.6076157
-    lng: -77.4592773
-    region: richmond
-    neighborhood: Henrico
-    bedrooms: 2 &amp; 3
-    petfriendly: true 
-    descriptions:
-      - Getting everything you want in an affordable apartment and staying within your budget is possible at Overlook at Brook Run Apartments.  Our value packed 2 & 3 bedroom apartments prove that you can live large without breaking the bank.  We know that when it comes to apartment living, bigger is always better.  That’s why we offer some of the largest floor plans in Henrico, with tons of extra closet space and storage. Enjoy an open concept living space, complete with a kitchen bar and separate dining area. In the spring and summer, you’ll love opening your patio doors to extend your living space to the outdoors. Our huge bedrooms are sure to fit all of your stuff, and you’ll love that every apartment offers two full bathrooms!  Don’t settle for just an affordable apartment.  Move to Overlook at Brook Run Apartments and enjoy living large at an affordable price!
-    links:
-      - title: Learn More
-        url: 'http://www.overlook-online.com'
-      - title: View Floor Plans
-        url: 'http://www.overlook-online.com/Floor-plans.aspx'
-      - title: View Photos
-        url: 'http://www.overlook-online.com/Gallery.aspx'
-      - title: Schedule A Tour
-        url: 'http://www.overlook-online.com/Contact.aspx'
-      - title: Apply Online
-        url: 'http://www.overlook-online.com/Floor-plans.aspx'
-      - title: Contact My Property Manager
-        url: 'http://www.overlook-online.com/Contact.aspx'
-      - title: Pay My Rent Online
-        url: 'http://overlook.activebuilding.com/'
-      - title: Visit Resident Portal
-        url: 'http://overlook.activebuilding.com/'
+  # - name: Overlook at Brook Run
+  #   city: 'Richmond, VA'
+  #   img: overlook.jpg
+  #   address: 1900 Cliffbrook Lane, Richmond, VA  23227
+  #   lat: 37.6076157
+  #   lng: -77.4592773
+  #   region: richmond
+  #   neighborhood: Henrico
+  #   bedrooms: 2 &amp; 3
+  #   petfriendly: true 
+  #   descriptions:
+  #     - Getting everything you want in an affordable apartment and staying within your budget is possible at Overlook at Brook Run Apartments.  Our value packed 2 & 3 bedroom apartments prove that you can live large without breaking the bank.  We know that when it comes to apartment living, bigger is always better.  That’s why we offer some of the largest floor plans in Henrico, with tons of extra closet space and storage. Enjoy an open concept living space, complete with a kitchen bar and separate dining area. In the spring and summer, you’ll love opening your patio doors to extend your living space to the outdoors. Our huge bedrooms are sure to fit all of your stuff, and you’ll love that every apartment offers two full bathrooms!  Don’t settle for just an affordable apartment.  Move to Overlook at Brook Run Apartments and enjoy living large at an affordable price!
+  #   links:
+  #     - title: Learn More
+  #       url: 'http://www.overlook-online.com'
+  #     - title: View Floor Plans
+  #       url: 'http://www.overlook-online.com/Floor-plans.aspx'
+  #     - title: View Photos
+  #       url: 'http://www.overlook-online.com/Gallery.aspx'
+  #     - title: Schedule A Tour
+  #       url: 'http://www.overlook-online.com/Contact.aspx'
+  #     - title: Apply Online
+  #       url: 'http://www.overlook-online.com/Floor-plans.aspx'
+  #     - title: Contact My Property Manager
+  #       url: 'http://www.overlook-online.com/Contact.aspx'
+  #     - title: Pay My Rent Online
+  #       url: 'http://overlook.activebuilding.com/'
+  #     - title: Visit Resident Portal
+  #       url: 'http://overlook.activebuilding.com/'
 
   - name: Sand Ridge Apartments
     city: 'Wilmington, NC'
@@ -787,35 +787,35 @@ properties:
       - title: Visit Resident Portal
         url: 'http://www.activebuilding.com/'
         
-  - name: Virginia Beach Community Development Corporation (VBCDC)
-    city: 'Virginia Beach, VA'
-    img: nophoto.jpg
-    address: 904 Broad Meadows Blvd Ste 250, Virginia Beach, VA 23462
-    lat: 36.867680
-    lng: -76.161144
-    region: hampton-roads
-    neighborhood: Virginia Beach
-    bedrooms: 1, 2, 3, 4 &amp; 5
-    petfriendly: true
-    descriptions:
-      - The Virginia Beach Community Development Corporation (VBCDC)’s mission is to assist the city of Virginia Beach through partnerships with public and private sectors to provide quality affordable housing opportunities to low and moderate income families and individuals.  VBCDC has partnered with Landmark Property Services, Inc. to lease and manage its communities and affordable housing programs.  We understand the importance of housing as a foundation for life.  Our network of affordable housing has expanded to over 400 units across Virginia Beach including larger apartment communities, condos, townhomes and single family homes.  We participate in a number of different affordable housing programs.  Some programs offer Section 8 rental assistance.  When you contact our leasing office, we will review the programs and communities which meet your needs and qualifications.  We offer affordable rental housing in a variety of different neighborhoods within the city of Virginia Beach including Lake Edward, Green Run, Northridge, Princess Anne Plaza, Indian Lakes, Campus East and Rosemont Forest.  
-    links:
-      - title: Learn More
-        url: 'http://www.vbcdc-online.com'
-      - title: View Floor Plans
-        url: 'http://www.vbcdc-online.com/Floor-plans.aspx'
-      - title: View Photos
-        url: 'http://www.vbcdc-online.com/Gallery.aspx'
-      - title: Schedule A Tour
-        url: 'http://www.vbcdc-online.com/Contact.aspx'
-      - title: Apply Online
-        url: 'http://www.vbcdc-online.com/Floor-plans.aspx'
-      - title: Contact My Property Manager
-        url: 'http://www.vbcdc-online.com/Contact.aspx'
-      - title: Pay My Rent Online
-        url: 'http://vbcdc.activebuilding.com/'
-      - title: Visit Resident Portal
-        url: 'http://vbcdc.activebuilding.com/'
+  # - name: Virginia Beach Community Development Corporation (VBCDC)
+  #   city: 'Virginia Beach, VA'
+  #   img: nophoto.jpg
+  #   address: 904 Broad Meadows Blvd Ste 250, Virginia Beach, VA 23462
+  #   lat: 36.867680
+  #   lng: -76.161144
+  #   region: hampton-roads
+  #   neighborhood: Virginia Beach
+  #   bedrooms: 1, 2, 3, 4 &amp; 5
+  #   petfriendly: true
+  #   descriptions:
+  #     - The Virginia Beach Community Development Corporation (VBCDC)’s mission is to assist the city of Virginia Beach through partnerships with public and private sectors to provide quality affordable housing opportunities to low and moderate income families and individuals.  VBCDC has partnered with Landmark Property Services, Inc. to lease and manage its communities and affordable housing programs.  We understand the importance of housing as a foundation for life.  Our network of affordable housing has expanded to over 400 units across Virginia Beach including larger apartment communities, condos, townhomes and single family homes.  We participate in a number of different affordable housing programs.  Some programs offer Section 8 rental assistance.  When you contact our leasing office, we will review the programs and communities which meet your needs and qualifications.  We offer affordable rental housing in a variety of different neighborhoods within the city of Virginia Beach including Lake Edward, Green Run, Northridge, Princess Anne Plaza, Indian Lakes, Campus East and Rosemont Forest.  
+  #   links:
+  #     - title: Learn More
+  #       url: 'http://www.vbcdc-online.com'
+  #     - title: View Floor Plans
+  #       url: 'http://www.vbcdc-online.com/Floor-plans.aspx'
+  #     - title: View Photos
+  #       url: 'http://www.vbcdc-online.com/Gallery.aspx'
+  #     - title: Schedule A Tour
+  #       url: 'http://www.vbcdc-online.com/Contact.aspx'
+  #     - title: Apply Online
+  #       url: 'http://www.vbcdc-online.com/Floor-plans.aspx'
+  #     - title: Contact My Property Manager
+  #       url: 'http://www.vbcdc-online.com/Contact.aspx'
+  #     - title: Pay My Rent Online
+  #       url: 'http://vbcdc.activebuilding.com/'
+  #     - title: Visit Resident Portal
+  #       url: 'http://vbcdc.activebuilding.com/'
 
   - name: Willow Oaks
     city: 'Richmond, VA'
