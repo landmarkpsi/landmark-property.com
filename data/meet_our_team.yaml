@@ -69,11 +69,11 @@ hoa:
     title: Property Manager
     email: edalton@landmark-property.com
     phone: 804 553 2456
-    photo: lizprofile.jpg
+    photo: nophoto.jpg
   - name: Nicole Garrett
     title: Property Manager
     email: ngarrett@landmark-property.com
-    photo: nicoleprofile.jpg
+    photo: nophoto.jpg
   - name: Kelli Cox
     title: Property Manager
     email: kcox@landmark-property.com
@@ -86,8 +86,8 @@ hoa:
   - name: Shari Schaefer
     title: Internet Marketing Specialist
     email: sschaefer@landmark-property.com
-    photo: shariprofile.jpg
+    photo: nophoto.jpg
   - name: Paige Alcorn
     title: Human Resources Manager
     email: palcorn@landmark-property.com
-    photo: paigeprofile.jpg
+    photo: nophoto.jpg
