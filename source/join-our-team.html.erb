@@ -11,47 +11,14 @@ keywords: 'careers, jobs, EOE, richmond'
     </div>
 </div>
 
-<div id="filters-container" class="cbp-l-filters-text content-xs" style="background: #f9f9f9; margin-bottom: 0px; padding-top: 10px">
-    <% data.available_positions.jobs.each_with_index do |job, index| %>
-        <div class="cbp-filter-item-active cbp-filter-item"><a href="#<%= index %>"> <%= job.title %> (<%= job.location %>) </a></div>
-        <% if data.available_positions.jobs.count > index + 1 %>
-          |
-        <% end %>
-    <% end %>
-</div><!--/end Filters Container-->
-
-<% data.available_positions.jobs.each_with_index do |job, index| %>
-    <div class="job-description" id="<%= index %>">
-      <div class="container content">
-          <!-- Left Inner -->
-          <div class="left-inner">
-              <h2><%= job.title %></h2>
-              <div class="overflow-h">
-                  <p class="hex"><%= job.location %></p>
-                  <p class="hex"><em>Posting Date - </em> <%= job.posting_date %></p>
-
-              </div>
-
-              <hr>
-
-              <h3>Job Description</h3>
-              <% job.description.each do |desc| %>
-                  <p><%= desc %>
-              <% end %>
-
-              <hr>
-
-              <h3>Required Skills</h3>
-              <ul class="list-unstyled">
-                  <% job.requirements.each do |skill| %>
-                      <li><i class="color-green fa fa-check"></i> <%= skill %></li>
-                  <% end %>
-              </ul>
-          </div>
-          <!-- End Left Inner -->
-      </div>
+<div class="job-description">
+    <div class="container content">
+        <div class="left-inner">
+            <h3>Available Positions</h3>
+            <p>All of our available career positions are on Indeed.com and Craigslist.</p>
+        </div>
     </div>
-<% end %>
+</div>
 
 <div class='job-description'>
     <div class="container content">
