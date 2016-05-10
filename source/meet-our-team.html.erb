@@ -86,17 +86,17 @@ keywords: 'Brian Chase, Pinson Neal, Judy Olive, multifamily, apartments, owners
                                 <hr>
                                 <ul class="list-inline team-social">
                                     <% person.social_media.each do |social| %>
-                                        <li>
+                                        <i>
                                             <a data-placement="top" data-toggle="tooltip" class="tw tooltips"
-                                               data-original-title="<%= social.name.capitalize %>" href="<%= social
-                                                                                                             .url %>"
+                                               data-original-title="<%= social.name.capitalize %>" href="<%= social.url %>"
                                                target="_blank">
-                                                <i class=""fa <%= social.icon %></li>
+                                                <i class=""fa <%= social.icon %></i>
                                             </a>
                                         </li>
                                     <% if person.phone %>
                                         <p><i class="fa fa-phone"></i> <%= person.phone %></p>
                                     <% end %>
+                                <% end %>
                                 </ul>
                             </div>
                         </div>
