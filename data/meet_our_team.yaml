@@ -54,6 +54,14 @@ multifamily:
       - name: twitter
         url: https://twitter.com/laddda13
         icon: fa-twitter
+  - name: Katherine Wilson
+    title: Vice President of Marketing
+    email: kwilson@landmark-property.com
+    photo: nophoto.jpg
+    social_media:
+      - name: twitter
+        url: https://twitter.com/landmarkpropsrv
+        icon: fa-twitter
 hoa:
   - name: Debra Fifer
     title: Director of Association Management
