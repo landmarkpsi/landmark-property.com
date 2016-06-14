@@ -120,7 +120,7 @@ hoa:
   - name: Shari Schaefer
     title: Digital Marketing Specialist
     email: sschaefer@landmark-property.com
-    phone:
+    phone: 804 673 0900
     photo: nophoto.jpg
     social_media:
       - name: twitter
@@ -129,7 +129,7 @@ hoa:
   - name: Paige Alcorn
     title: Human Resources Manager
     email: palcorn@landmark-property.com
-    phone: 
+    phone: 804 673 0900
     photo: nophoto.jpg
     social_media:
       - name: twitter
