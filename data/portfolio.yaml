@@ -121,6 +121,40 @@ properties:
       - title: Visit Resident Portal
         url: 'http://brookviewapts.activebuilding.com/'
 
+  - name: Buckingham Place Apartments
+      city: 'Norfolk, VA'
+      img: nophoto.jpg
+      address: 5610 Monroe Place, Norfolk, VA 23508
+      lat: 36.893324
+      lng: -76.301489
+      region: hampton-roads
+      neighborhood: Norfolk
+      bedrooms: 2
+      petfriendly: true
+      descriptions:
+        - Welcome home to Buckingham Place Apartments, located in Norfolk, Virginia. Buckingham Place Apartments offers
+          spacious two bedroom townhouse-style apartments. Buckingham Place Apartments boasts a convenient location
+          close to everything Norfolk has to offer! Located just off Hampton Boulevard and within walking distance of
+          Old Dominion University. Great shopping, dining, and an abundance of entertainment and outdoor recreation
+          options are only minutes away.
+      links:
+        - title: Learn More
+          url: 'http://www.buckinghamplace-online.com'
+        - title: View Floor Plans
+          url: 'http://www.buckinghamplace-online.com/Floor-plans.aspx'
+        - title: View Photos
+          url: 'http://www.buckinghamplace-online.com/Gallery.aspx'
+        - title: Schedule A Tour
+          url: 'http://www.buckinghamplace-online.com/Contact.aspx'
+        - title: Apply Online
+          url: 'http://www.buckinghamplace-online.com/Floor-plans.aspx'
+        - title: Contact My Property Manager
+          url: 'http://www.buckinghamplace-online.com/Contact.aspx'
+        - title: Pay My Rent Online
+          url: 'http://buckinghamplace.activebuilding.com/'
+        - title: Visit Resident Portal
+          url: 'http://buckinghamplace.activebuilding.com/'
+
   - name: Cloverleaf Lake Townhouse Apartments
     city: 'Richmond, VA'
     img: cloverleaf.jpg
@@ -212,6 +246,40 @@ properties:
         url: 'http://colonialpoint.activebuilding.com/'
       - title: Visit Resident Portal
         url: 'http://colonialpoint.activebuilding.com/'
+
+  - name: Country Club Apartments
+    city: 'Hampton, VA'
+    img: nophoto.jpg
+    address: 115 Tide Mill Lane, Hampton, VA 23666
+    lat: 37.060563
+    lng: -76.364645
+    region: hampton-roads
+    neighborhood: Hampton
+    bedrooms: 1, 2 &amp; 3
+    petfriendly: true
+    descriptions:
+      - Welcome home to Country Club Apartments, located in Hampton, Virginia. Country Club Apartments is an affordable
+        waterfront community in a quiet neighborhood minutes away from downtown Hampton. Country Club Apartments offers
+        spacious one, two and three bedroom waterfront apartments. Our Hampton, Virginia community is located near I-64
+        and just outside of Langley Airforce Base's main gate. Great shopping, fine dining, and an abundance of
+        entertainment and outdoor recreation options are only minutes away.
+    links:
+      - title: Learn More
+        url: 'http://www.countryclubapts-online.com'
+      - title: View Floor Plans
+        url: 'http://www.countryclubapts-online.com/Floor-plans.aspx'
+      - title: View Photos
+        url: 'http://www.countryclubapts-online.com/Gallery.aspx'
+      - title: Schedule A Tour
+        url: 'http://www.countryclubapts-online.com/Contact.aspx'
+      - title: Apply Online
+        url: 'http://www.countryclubapts-online.com/Floor-plans.aspx'
+      - title: Contact My Property Manager
+        url: 'http://www.countryclubapts-online.com/Contact.aspx'
+      - title: Pay My Rent Online
+        url: 'http://countryclub.activebuilding.com/'
+      - title: Visit Resident Portal
+        url: 'http://countryclub.activebuilding.com/'
 
   # - name: Creekpointe Apartments
   #   city: 'Midlothian, VA'

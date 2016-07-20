@@ -21,7 +21,10 @@ body:
 
 awards_header: Awards
 awards:
-  - year: 2015 
+  - year: 2016
+      title: Community of the Year (Tax Credit Built Before 1994)
+      receipient: The Hamptons Apartments
+  - year: 2015
     title: Community of the Year (Rents up to $750)
     receipient: Stratford Hills/Bethany Springs
   - year: 2015 
