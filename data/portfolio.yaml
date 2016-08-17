@@ -123,7 +123,7 @@ properties:
 
   - name: Buckingham Place Apartments
       city: 'Norfolk, VA'
-      img: nophoto.jpg
+      img: bpapts.jpg
       address: 5610 Monroe Place, Norfolk, VA 23508
       lat: 36.893324
       lng: -76.301489
