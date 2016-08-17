@@ -249,7 +249,7 @@ properties:
 
   - name: Country Club Apartments
     city: 'Hampton, VA'
-    img: nophoto.jpg
+    img: countryclubapts.jpg
     address: 115 Tide Mill Lane, Hampton, VA 23666
     lat: 37.060563
     lng: -76.364645
